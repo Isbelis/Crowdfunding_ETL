@@ -4,7 +4,7 @@
 
 -- project-2-group-16
 
-CREATE TABLE "crowdfunding" (
+CREATE TABLE "campaing" (
     "cf_id" INT   NOT NULL,
     "contact_id" INT   NOT NULL,
     "company_name" VARCHAR(50)   NOT NULL,
@@ -21,7 +21,7 @@ CREATE TABLE "crowdfunding" (
     "spotlight" boolean   NOT NULL,
     "category_id" CHAR(4)   NOT NULL,
     "subcategory_id" CHAR(8)   NOT NULL,
-    CONSTRAINT "pk_crowdfunding" PRIMARY KEY (
+    CONSTRAINT "pk_campaing" PRIMARY KEY (
         "cf_id"
      )
 );
@@ -52,12 +52,14 @@ CREATE TABLE "subcategory" (
      )
 );
 
-ALTER TABLE "crowdfunding" ADD CONSTRAINT "fk_crowdfunding_contact_id" FOREIGN KEY("contact_id")
+ALTER TABLE "campaing" ADD CONSTRAINT "fk_campaing_contact_id" FOREIGN KEY("contact_id")
 REFERENCES "contacts" ("contact_id");
 
-ALTER TABLE "crowdfunding" ADD CONSTRAINT "fk_crowdfunding_category_id" FOREIGN KEY("category_id")
+ALTER TABLE "campaing" ADD CONSTRAINT "fk_campaing_category_id" FOREIGN KEY("category_id")
 REFERENCES "category" ("category_id");
 
-ALTER TABLE "crowdfunding" ADD CONSTRAINT "fk_crowdfunding_subcategory_id" FOREIGN KEY("subcategory_id")
+ALTER TABLE "campaing" ADD CONSTRAINT "fk_campaing_subcategory_id" FOREIGN KEY("subcategory_id")
 REFERENCES "subcategory" ("subcategory_id");
 
+
+SELECT * FROM category

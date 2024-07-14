@@ -1,4 +1,4 @@
-﻿-- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
+-- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
 -- Link to schema: https://app.quickdatabasediagrams.com/#/d/3z3GcN
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
 
@@ -15,14 +15,14 @@ CREATE TABLE "crowdfunding" (
     "backers_count" INTEGER   NOT NULL,
     "country" CHAR(2)   NOT NULL,
     "currency" CHAR(3)   NOT NULL,
-    "launch_date" datetime   NOT NULL,
-    "end_date" datetime   NOT NULL,
+    "launch_date" date   NOT NULL,
+    "end_date" date   NOT NULL,
     "staff_pick" boolean   NOT NULL,
     "spotlight" boolean   NOT NULL,
     "category_id" CHAR(4)   NOT NULL,
     "subcategory_id" CHAR(8)   NOT NULL,
     CONSTRAINT "pk_crowdfunding" PRIMARY KEY (
-        "cf_id","contact_id"
+        "cf_id"
      )
 );
 
@@ -52,12 +52,12 @@ CREATE TABLE "subcategory" (
      )
 );
 
+ALTER TABLE "crowdfunding" ADD CONSTRAINT "fk_crowdfunding_contact_id" FOREIGN KEY("contact_id")
+REFERENCES "contacts" ("contact_id");
+
 ALTER TABLE "crowdfunding" ADD CONSTRAINT "fk_crowdfunding_category_id" FOREIGN KEY("category_id")
 REFERENCES "category" ("category_id");
 
 ALTER TABLE "crowdfunding" ADD CONSTRAINT "fk_crowdfunding_subcategory_id" FOREIGN KEY("subcategory_id")
 REFERENCES "subcategory" ("subcategory_id");
-
-ALTER TABLE "contacts" ADD CONSTRAINT "fk_contacts_contact_id" FOREIGN KEY("contact_id")
-REFERENCES "crowdfunding" ("contact_id");
 

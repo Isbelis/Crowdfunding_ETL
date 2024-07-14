@@ -2,7 +2,7 @@ Crowdfunding ERD - project-2-group-16
 
 crowdfunding
 -
-cf_id CHAR(4) PK
+cf_id INT PK
 contact_id INT PK 
 company_name  VARCHAR(50)
 description  VARCHAR(50)

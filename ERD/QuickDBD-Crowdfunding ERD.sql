@@ -5,7 +5,7 @@
 -- project-2-group-16
 
 CREATE TABLE "crowdfunding" (
-    "cf_id" CHAR(4)   NOT NULL,
+    "cf_id" INT   NOT NULL,
     "contact_id" INT   NOT NULL,
     "company_name" VARCHAR(50)   NOT NULL,
     "description" VARCHAR(50)   NOT NULL,

@@ -1,13 +1,9 @@
--- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
+﻿-- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
 -- Link to schema: https://app.quickdatabasediagrams.com/#/d/3z3GcN
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
 
 -- project-2-group-16
-DROP TABLE IF EXISTS contacts;
-DROP TABLE IF EXISTS category;
-DROP TABLE IF EXISTS subcategory;
-DROP TABLE IF EXISTS campaing;
-	
+
 CREATE TABLE "campaing" (
     "cf_id" INT   NOT NULL,
     "contact_id" INT   NOT NULL,
@@ -21,8 +17,6 @@ CREATE TABLE "campaing" (
     "currency" CHAR(3)   NOT NULL,
     "launch_date" date   NOT NULL,
     "end_date" date   NOT NULL,
-    "staff_pick" boolean   NOT NULL,
-    "spotlight" boolean   NOT NULL,
     "category_id" CHAR(4)   NOT NULL,
     "subcategory_id" CHAR(8)   NOT NULL,
     CONSTRAINT "pk_campaing" PRIMARY KEY (
@@ -32,7 +26,7 @@ CREATE TABLE "campaing" (
 
 CREATE TABLE "contacts" (
     "contact_id" INT   NOT NULL,
-    "first_name" VARCHAR(50)   NOT NULL,
+    "First_name" VARCHAR(50)   NOT NULL,
     "Last_name" VARCHAR(50)   NOT NULL,
     "email" VARCHAR(50)   NOT NULL,
     CONSTRAINT "pk_contacts" PRIMARY KEY (
@@ -65,5 +59,3 @@ REFERENCES "category" ("category_id");
 ALTER TABLE "campaing" ADD CONSTRAINT "fk_campaing_subcategory_id" FOREIGN KEY("subcategory_id")
 REFERENCES "subcategory" ("subcategory_id");
 
-
-SELECT * FROM category

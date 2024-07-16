@@ -3,7 +3,11 @@
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
 
 -- project-2-group-16
-
+DROP TABLE IF EXISTS contacts;
+DROP TABLE IF EXISTS category;
+DROP TABLE IF EXISTS subcategory;
+DROP TABLE IF EXISTS campaing;
+	
 CREATE TABLE "campaing" (
     "cf_id" INT   NOT NULL,
     "contact_id" INT   NOT NULL,

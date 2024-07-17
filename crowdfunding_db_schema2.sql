@@ -21,17 +21,17 @@ CREATE TABLE subcategory(
 SELECT * FROM subcategory;
 
 -- Drop table if exists (3)
-DROP TABLE contacts_Option1;
+DROP TABLE contacts;
 
 -- Create table and view column datatypes
-CREATE TABLE contacts_Option1( 
+CREATE TABLE contacts( 
 	contact_id INT NOT NULL PRIMARY KEY,
 	First_name VARCHAR(50) NOT NULL,
 	Last_name VARCHAR(50) NOT NULL,
 	email VARCHAR(50) NOT NULL
 );
 
-SELECT * FROM contacts_Option1;
+SELECT * FROM contacts;
 
 -- Drop table if exists (4)
 DROP TABLE campaign;

@@ -1,0 +1,1001 @@
+cf_id,company_name,outcome,backers_count,country,goal,pledged,launch_date,category,subcategory,first_name,last_name,email
+147,"Baldwin, Riley and Jackson",failed,0,CA,100.0,0.0,2020-02-13 06:00:00,food,food trucks,Cecilia,Velasco,cecilia.velasco@rodrigues.fr
+1621,Odom Inc,successful,158,US,1400.0,14560.0,2021-01-25 06:00:00,music,rock,Mariana,Ellis,mariana.ellis@rossi.org
+1812,"Melton, Robinson and Fritz",successful,1425,AU,108400.0,142523.0,2020-12-17 06:00:00,technology,web,Sofie,Woods,sofie.woods@riviere.com
+2156,"Mcdonald, Gonzalez and Ross",failed,24,US,4200.0,2477.0,2021-10-21 05:00:00,music,rock,Jeanette,Iannotti,jeanette.iannotti@yahoo.com
+1365,Larson-Little,failed,53,US,7600.0,5265.0,2020-12-21 06:00:00,theater,plays,Samuel,Sorgatz,samuel.sorgatz@gmail.com
+2057,Harris Group,successful,174,DK,7600.0,13195.0,2020-12-11 06:00:00,theater,plays,Socorro,Luna,socorro.luna@hotmail.com
+1894,"Ortiz, Coleman and Mitchell",failed,18,GB,5200.0,1090.0,2020-07-31 05:00:00,film & video,documentary,Carolina,Murray,carolina.murray@knight.com
+2669,Carter-Guzman,successful,227,DK,4500.0,14741.0,2020-12-22 06:00:00,theater,plays,Kayla,Moon,kayla.moon@yahoo.de
+1114,Nunez-Richards,live,708,DK,110100.0,21946.0,2020-04-08 05:00:00,theater,plays,Ariadna,Geisel,ariadna.geisel@rangel.com
+970,"Rangel, Holt and Jones",failed,44,US,6200.0,3208.0,2021-08-13 05:00:00,music,electric music,Danielle,Ladeck,danielle.ladeck@scalfaro.net
+2340,Green Ltd,successful,220,US,5200.0,13838.0,2020-07-11 05:00:00,film & video,drama,Tatiana,Thompson,tatiana.thompson@hunt.net
+601,"Perez, Johnson and Gardner",failed,27,US,6300.0,3030.0,2020-08-11 05:00:00,theater,plays,Caleb,Benavides,caleb.benavides@rubio.com
+1950,Kim Ltd,failed,55,US,6300.0,5629.0,2020-11-14 06:00:00,film & video,drama,Sandra,Hardy,sandra.hardy@web.de
+671,"Walker, Taylor and Coleman",successful,98,US,4200.0,10295.0,2020-11-11 06:00:00,music,indie rock,Lotti,Morris,lotti.morris@yahoo.co.uk
+1683,"Rodriguez, Rose and Stewart",failed,200,US,28200.0,18829.0,2021-11-14 06:00:00,music,indie rock,Reinhilde,White,reinhilde.white@voila.fr
+505,"Wright, Hunt and Rowe",failed,452,US,81200.0,38414.0,2021-10-25 05:00:00,technology,wearables,Kerry,Patel,kerry.patel@hutchinson.com
+1245,Hines Inc,successful,100,US,1700.0,11041.0,2021-08-20 05:00:00,publishing,nonfiction,Sophie,Antoine,sophie.antoine@andersen.com
+2550,Cochran-Nguyen,successful,1249,US,84600.0,134845.0,2020-04-12 05:00:00,film & video,animation,Martha,Girard,martha.girard@web.de
+875,Johnson-Gould,canceled,135,US,9100.0,6089.0,2021-03-24 05:00:00,theater,plays,Stephanie,King,stephanie.king@cervantes.com
+2283,Perez-Hess,failed,674,US,62500.0,30331.0,2021-10-12 05:00:00,theater,plays,Amanda,Palmer,amanda.palmer@didier.fr
+118,"Reeves, Thompson and Richardson",successful,1396,US,131800.0,147936.0,2020-04-12 05:00:00,film & video,drama,Lina,Alcala,lina.alcala@vespa.net
+711,Simmons-Reynolds,failed,558,US,94000.0,38533.0,2021-03-14 06:00:00,theater,plays,Itzel,Murphy,itzel.murphy@muelichen.de
+1747,Collier Inc,successful,890,US,59100.0,75690.0,2020-07-06 05:00:00,theater,plays,Filippo,Parry,filippo.parry@live.com
+1825,Gray-Jenkins,successful,142,GB,4500.0,14942.0,2021-07-23 05:00:00,film & video,documentary,Katelyn,Cole,katelyn.cole@fiebig.com
+1019,"Scott, Wilson and Martin",successful,2673,US,92400.0,104257.0,2021-05-01 05:00:00,technology,wearables,Brian,Novak,brian.novak@ford.net
+821,"Caldwell, Velazquez and Wilson",successful,163,US,5500.0,11904.0,2020-10-09 05:00:00,games,video games,Cilly,Gay,cilly.gay@callegaro.it
+2653,Spencer-Bates,canceled,1480,US,107500.0,51814.0,2020-11-20 06:00:00,theater,plays,Yolanda,Snyder,yolanda.snyder@gmx.de
+2502,"Best, Carr and Williams",failed,15,US,2000.0,1599.0,2021-01-08 06:00:00,music,rock,Evelin,Odonnell,evelin.odonnell@ibarra.net
+325,"Campbell, Brown and Powell",successful,2220,US,130800.0,137635.0,2020-12-23 06:00:00,theater,plays,Ingeborg,Alba,ingeborg.alba@hotmail.com
+1345,"Johnson, Parker and Haynes",successful,1606,CH,45900.0,150965.0,2020-11-06 06:00:00,film & video,shorts,Marina,Madrid,marina.madrid@galarza-alba.com
+2303,Clark-Cooke,successful,129,US,9000.0,14455.0,2020-10-28 05:00:00,film & video,animation,Sheila,Goodwin,sheila.goodwin@yahoo.com
+2224,Schroeder Ltd,successful,226,GB,3500.0,10850.0,2020-11-25 06:00:00,games,video games,Valeria,Rich,valeria.rich@turchetta-mondadori.it
+1173,Jackson PLC,failed,2307,IT,101000.0,87676.0,2021-02-21 06:00:00,film & video,documentary,Dustin,Camacho,dustin.camacho@rhodes.org.au
+210,"Blair, Collins and Carter",successful,5419,US,50200.0,189666.0,2021-04-04 05:00:00,theater,plays,Amalia,Marenzio,amalia.marenzio@grupo.com
+1546,Maldonado and Sons,successful,165,US,9300.0,14025.0,2021-01-26 06:00:00,film & video,documentary,Gian,Long,gian.long@hotmail.com
+2871,Mitchell and Sons,successful,1965,DK,125500.0,188628.0,2021-03-16 05:00:00,film & video,drama,Stewart,Hunt,stewart.hunt@anderson-vargas.biz
+2034,Jackson-Lewis,successful,16,US,700.0,1101.0,2021-04-07 05:00:00,theater,plays,Greca,Ruiz,greca.ruiz@carr.co.uk
+2677,"Black, Armstrong and Anderson",successful,107,US,8100.0,11339.0,2020-11-20 06:00:00,publishing,fiction,Gerald,Olivera,gerald.olivera@outlook.com
+1865,Maldonado-Gonzalez,successful,134,US,3100.0,10085.0,2021-08-23 05:00:00,photography,photography books,Jaqueline,Wallace,jaqueline.wallace@gmail.com
+170,Kim-Rice,failed,88,DK,9900.0,5027.0,2021-04-14 05:00:00,theater,plays,John,Lane,john.lane@gregoire.fr
+462,"Garcia, Garcia and Lopez",successful,198,US,8800.0,14878.0,2020-11-18 06:00:00,technology,wearables,Pero,Joly,pero.joly@bernard.net
+3122,Watts Group,successful,111,IT,5600.0,11924.0,2021-03-17 05:00:00,music,rock,Chad,Turner,chad.turner@gmail.com
+1175,Werner-Bryant,successful,222,US,1800.0,7991.0,2020-06-20 05:00:00,food,food trucks,Adam,Zavala,adam.zavala@guichard.fr
+2301,Schmitt-Mendoza,successful,6212,US,90200.0,167717.0,2020-11-14 06:00:00,publishing,radio & podcasts,Tyler,Rivera,tyler.rivera@guajardo-ozuna.com
+91,Reid-Mccullough,successful,98,DK,1600.0,10541.0,2020-11-25 06:00:00,publishing,fiction,Jens,Graham,jens.graham@jones-buckley.com
+87,Woods-Clark,failed,48,US,9500.0,4530.0,2021-01-18 06:00:00,theater,plays,Virginia,Caetani,virginia.caetani@sosa.biz
+1482,"Vaughn, Hunt and Caldwell",successful,92,US,3700.0,4247.0,2021-05-23 05:00:00,music,rock,Martino,Wagner,martino.wagner@laposte.net
+1711,Bennett and Sons,successful,149,US,1500.0,7129.0,2020-12-18 06:00:00,theater,plays,Martin,Meyer,martin.meyer@davis.co.uk
+2294,Lamb Inc,successful,2431,US,33300.0,128862.0,2021-02-22 06:00:00,theater,plays,Marguerite,Walls,marguerite.walls@martinez.fr
+2389,Casey-Kelly,successful,303,US,7200.0,13653.0,2021-01-25 06:00:00,music,rock,Peter,Vogt,peter.vogt@yahoo.com
+378,"Jones, Taylor and Moore",failed,1,IT,100.0,2.0,2021-10-08 05:00:00,music,metal,Nicholas,Christian,nicholas.christian@hotmail.de
+1213,"Bradshaw, Gill and Donovan",failed,1467,GB,158100.0,145243.0,2020-09-07 05:00:00,technology,wearables,Susi,Steinberg,susi.steinberg@preiss.com
+29,"Hernandez, Rodriguez and Clark",failed,75,US,7200.0,2459.0,2021-03-12 06:00:00,theater,plays,Tammy,Ramazzotti,tammy.ramazzotti@gmail.com
+2309,Smith-Jones,successful,209,US,8800.0,12356.0,2021-10-14 05:00:00,film & video,drama,Abdul,Thomas,abdul.thomas@vasari.com
+2101,Roy PLC,failed,120,US,6000.0,5392.0,2021-03-30 05:00:00,technology,wearables,Justin,Luxardo,justin.luxardo@googlemail.com
+1057,"Wright, Brooks and Villarreal",successful,131,US,6600.0,11746.0,2021-09-29 05:00:00,music,jazz,Antonio,Gibson,antonio.gibson@faust.net
+2655,"Flores, Miller and Johnson",successful,164,US,8000.0,11493.0,2021-03-03 06:00:00,technology,wearables,Jeremy,Gomez,jeremy.gomez@oconnor.org
+202,"Bridges, Freeman and Kim",successful,201,US,2900.0,6243.0,2021-07-23 05:00:00,games,video games,Raymond,Solorzano,raymond.solorzano@gmail.com
+2025,Anderson-Perez,successful,211,US,2700.0,6132.0,2021-02-09 06:00:00,theater,plays,Flora,Harris,flora.harris@hotmail.com.au
+2395,"Wright, Fox and Marks",successful,128,US,1400.0,3851.0,2020-12-10 06:00:00,theater,plays,Cheryl,Boyd,cheryl.boyd@segni.it
+1418,Crawford-Peters,successful,1600,CA,94200.0,135997.0,2020-10-20 05:00:00,theater,plays,Rhys,Leiva,rhys.leiva@gmx.de
+1905,Romero-Hoffman,failed,2253,CA,199200.0,184750.0,2021-06-15 05:00:00,theater,plays,Mariano,Prieto,mariano.prieto@vodafone.it
+1969,Sparks-West,successful,249,US,2000.0,14452.0,2021-08-19 05:00:00,technology,web,Laurie,Fibonacci,laurie.fibonacci@gmail.com
+2430,"Baker, Morgan and Brown",failed,5,US,4700.0,557.0,2021-06-25 05:00:00,theater,plays,David,Rudolph,david.rudolph@nelson.com
+1291,Mosley-Gilbert,failed,38,US,2800.0,2734.0,2021-05-21 05:00:00,technology,web,Bryan,Ross,bryan.ross@yahoo.com
+1934,Berry-Boyer,successful,236,US,6100.0,14405.0,2021-02-23 06:00:00,theater,plays,Ubaldo,Brown,ubaldo.brown@philippe.com
+1225,Sanders-Allen,failed,12,US,2900.0,1307.0,2021-10-05 05:00:00,theater,plays,Clelia,Faulkner,clelia.faulkner@hotmail.com
+1363,Lopez Inc,successful,4065,GB,72600.0,117892.0,2020-11-03 06:00:00,technology,wearables,Sara,Erickson,sara.erickson@yahoo.de
+963,Moreno-Turner,successful,246,IT,5700.0,14508.0,2020-08-10 05:00:00,theater,plays,Rupert,Valle,rupert.valle@filogamo.it
+1486,Jones-Watson,canceled,17,US,7900.0,1901.0,2021-06-27 05:00:00,theater,plays,Puccio,Kitzmann,puccio.kitzmann@yahoo.com
+676,Barker Inc,successful,2475,IT,128000.0,158389.0,2021-08-08 05:00:00,theater,plays,Thomas,Hutchinson,thomas.hutchinson@gmx.de
+2137,"Tate, Bass and House",successful,76,US,6000.0,6484.0,2021-03-19 05:00:00,theater,plays,Abelardo,Castro,abelardo.castro@gmail.com
+2656,"Hampton, Lewis and Ray",successful,54,US,600.0,4022.0,2021-07-27 05:00:00,film & video,animation,Greco,Walker,greco.walker@yahoo.com
+1556,Collins-Goodman,successful,88,US,1400.0,9253.0,2020-05-11 05:00:00,music,jazz,Miranda,Lacombe,miranda.lacombe@longoria-vanegas.net
+747,Davis-Michael,successful,85,GB,3900.0,4776.0,2021-06-29 05:00:00,music,metal,Diana,Schuchhardt,diana.schuchhardt@libero.it
+60,"White, Torres and Bishop",successful,170,US,9700.0,14606.0,2021-02-25 06:00:00,photography,photography books,Stacey,Knox,stacey.knox@corporacin.com
+2459,"Martin, Conway and Larsen",failed,1684,US,122900.0,95993.0,2020-12-13 06:00:00,theater,plays,Glen,Faivre,glen.faivre@yahoo.com
+1903,Acevedo-Huffman,failed,56,US,9500.0,4460.0,2021-06-17 05:00:00,film & video,animation,Andrew,Torres,andrew.torres@ruiz-torres.org
+2003,"Montgomery, Larson and Spencer",successful,330,US,4500.0,13536.0,2020-12-24 06:00:00,publishing,translations,Denny,Fritz,denny.fritz@despacho.biz
+2885,Soto LLC,failed,838,US,57800.0,40228.0,2021-06-13 05:00:00,theater,plays,Martyn,Caldera,martyn.caldera@hotmail.co.uk
+2067,"Sutton, Barrett and Tucker",successful,127,US,1100.0,7012.0,2021-06-26 05:00:00,games,video games,Abigail,Foster,abigail.foster@taylor.net
+1610,"Gomez, Bailey and Flores",successful,411,US,16800.0,37857.0,2020-11-01 05:00:00,music,rock,Anthony,Hauffer,anthony.hauffer@tlustek.org
+2909,Porter-George,successful,180,GB,1000.0,14973.0,2020-10-09 05:00:00,games,video games,Roger,Gerlach,roger.gerlach@may-mitchell.co.uk
+1239,Fitzgerald PLC,failed,1000,US,106400.0,39996.0,2021-06-25 05:00:00,music,electric music,Christopher,Poirier,christopher.poirier@hotmail.com
+2480,Cisneros-Burton,successful,374,US,31400.0,41564.0,2021-07-03 05:00:00,technology,wearables,Branka,Traore,branka.traore@jacobi.com
+2181,"Hill, Lawson and Wilkinson",successful,71,AU,4900.0,6430.0,2021-05-29 05:00:00,music,indie rock,Briana,Etienne,briana.etienne@bishop-coates.com
+2030,Davis-Smith,successful,203,US,7400.0,12405.0,2021-05-16 05:00:00,theater,plays,Brandon,Olson,brandon.olson@prince-moreno.net
+2311,Farrell and Sons,failed,1482,AU,198500.0,123040.0,2020-08-23 05:00:00,music,rock,Celia,Ungaretti,celia.ungaretti@fox.com
+2821,Clark Group,successful,113,US,4800.0,12516.0,2020-07-21 05:00:00,publishing,translations,Barbara,Guibert,barbara.guibert@casares-sanches.com
+2468,"White, Singleton and Zimmerman",successful,96,US,3400.0,8588.0,2020-07-23 05:00:00,theater,plays,Daniela,Bell,daniela.bell@vollbrecht.org
+656,Kramer Group,failed,106,US,7800.0,6132.0,2021-10-09 05:00:00,theater,plays,Phyllis,Gurule,phyllis.gurule@rodriguez-pham.com
+2791,"Frazier, Patrick and Smith",failed,679,IT,154300.0,74688.0,2020-07-03 05:00:00,publishing,translations,Alejandra,Joseph,alejandra.joseph@escalante-abrego.biz
+1527,"Santos, Bell and Lloyd",successful,498,CH,20000.0,51775.0,2020-08-05 05:00:00,games,video games,Giulio,Bohlander,giulio.bohlander@dbmail.com
+1891,Hall and Sons,canceled,610,US,108800.0,65877.0,2020-11-22 06:00:00,theater,plays,Amber,Weller,amber.weller@toso.eu
+580,Hanson Inc,successful,180,GB,2900.0,8807.0,2021-03-14 06:00:00,technology,web,Mary,Etzold,mary.etzold@conrad-harrison.com
+682,Sanchez LLC,successful,27,US,900.0,1017.0,2021-08-06 05:00:00,film & video,documentary,Amy,Georges,amy.georges@raedel.de
+3097,Howard Ltd,successful,2331,US,69700.0,151513.0,2021-10-18 05:00:00,theater,plays,Jennifer,Giraud,jennifer.giraud@yahoo.com
+873,Stewart LLC,successful,113,US,1300.0,12047.0,2020-11-29 06:00:00,food,food trucks,Rosie,Peltier,rosie.peltier@voila.fr
+1668,"Arias, Allen and Miller",failed,1220,AU,97800.0,32951.0,2021-02-14 06:00:00,games,video games,Oreste,Ward,oreste.ward@proyectos.com
+3076,Baker-Morris,successful,164,US,7600.0,14951.0,2020-08-23 05:00:00,theater,plays,Luis,Edwards,luis.edwards@live.com
+3146,"Tucker, Fox and Green",failed,1,US,100.0,1.0,2021-06-22 05:00:00,theater,plays,Fiona,Griffiths,fiona.griffiths@curatoli-verdone.it
+253,Douglas LLC,successful,164,US,900.0,9193.0,2021-10-06 05:00:00,music,electric music,Sally,Raya,sally.raya@tarchetti.it
+3088,Garcia Inc,successful,336,US,3700.0,10422.0,2020-09-18 05:00:00,technology,wearables,Carolyn,Charpentier,carolyn.charpentier@hotmail.de
+393,"Frye, Hunt and Powell",failed,37,IT,10000.0,2461.0,2021-05-10 05:00:00,music,electric music,Nathalie,Alvarez,nathalie.alvarez@live.com
+2912,"Smith, Wells and Nguyen",successful,1917,US,119200.0,170623.0,2021-07-09 05:00:00,music,indie rock,Abril,Lowery,abril.lowery@novak.net
+478,Charles-Johnson,successful,95,US,6800.0,9829.0,2020-10-08 05:00:00,technology,web,Ottone,Sullivan,ottone.sullivan@hussain-kaur.com
+1061,"Brandt, Carter and Wood",successful,147,US,3900.0,14006.0,2021-03-05 06:00:00,theater,plays,Esmeralda,Sollima,esmeralda.sollima@visintini.it
+2957,"Tucker, Schmidt and Reid",successful,86,US,3500.0,6527.0,2021-05-07 05:00:00,theater,plays,Silvia,Gierschner,silvia.gierschner@tele2.it
+2015,Decker Inc,successful,83,US,1500.0,8929.0,2020-10-14 05:00:00,film & video,documentary,Kyle,Cunningham,kyle.cunningham@voila.fr
+1179,Romero and Sons,failed,60,US,5200.0,3079.0,2020-10-01 05:00:00,film & video,television,Anel,Carpentier,anel.carpentier@klein-joseph.org
+2568,Castillo-Carey,failed,296,US,142400.0,21307.0,2020-05-05 05:00:00,food,food trucks,Sarah,Davis,sarah.davis@david.com
+2869,Hart-Briggs,successful,676,US,61400.0,73653.0,2021-03-17 05:00:00,publishing,radio & podcasts,Luke,Klein,luke.klein@hotmail.com
+718,Jones-Meyer,successful,361,AU,4700.0,12635.0,2020-10-24 05:00:00,technology,web,Gudrun,Mueller,gudrun.mueller@dillon-fuller.info
+1211,"Wright, Hartman and Yu",successful,131,US,3300.0,12437.0,2021-01-29 06:00:00,food,food trucks,Melissa,Canali,melissa.canali@libero.it
+2431,Harper-Davis,successful,126,US,1900.0,13816.0,2021-07-02 05:00:00,technology,wearables,Gabrielle,Ayala,gabrielle.ayala@hotmail.com
+468,Barrett PLC,failed,3304,IT,166700.0,145382.0,2021-03-20 05:00:00,publishing,fiction,Laura,Buckley,laura.buckley@ryan.org
+1862,David-Clark,failed,73,US,7200.0,6336.0,2021-09-02 05:00:00,theater,plays,Wilfrido,Lorch,wilfrido.lorch@leclerc.fr
+2300,Chaney-Dennis,successful,275,US,4900.0,8523.0,2021-06-18 05:00:00,film & video,television,Robert,Bruder,robert.bruder@manzoni.com
+449,"Robinson, Lopez and Christensen",successful,67,US,5400.0,6351.0,2020-10-07 05:00:00,photography,photography books,Phillip,Soliz,phillip.soliz@outlook.com
+283,Clark and Sons,successful,154,US,5000.0,10748.0,2021-07-27 05:00:00,film & video,documentary,Alex,Smith,alex.smith@fournier.fr
+2484,Vega Group,successful,1782,US,75100.0,112272.0,2021-04-15 05:00:00,games,mobile games,Jessica,Martinez,jessica.martinez@salieri.com
+1490,Brown-Brown,successful,903,US,45300.0,99361.0,2020-06-21 05:00:00,games,video games,Kelly,Carter,kelly.carter@hotmail.com.au
+186,Taylor PLC,failed,3387,US,136800.0,88055.0,2020-05-21 05:00:00,publishing,fiction,Ahmad,Sosa,ahmad.sosa@gmail.com
+2999,Edwards-Lewis,failed,662,CA,177700.0,33092.0,2022-01-15 06:00:00,theater,plays,Toralf,Iglesias,toralf.iglesias@borrego.com
+2819,"Stanton, Neal and Rodriguez",successful,94,IT,2600.0,9562.0,2020-07-19 05:00:00,photography,photography books,Irene,Anichini,irene.anichini@yahoo.com
+2105,Pratt LLC,successful,180,US,5300.0,8475.0,2020-05-10 05:00:00,theater,plays,Alicia,Cainero,alicia.cainero@yahoo.com
+1324,Gross PLC,failed,774,US,180200.0,69617.0,2020-03-24 05:00:00,theater,plays,Tracey,Laboy,tracey.laboy@bell.biz
+1952,"Martinez, Gomez and Dalton",failed,672,CA,103200.0,53067.0,2021-03-03 06:00:00,theater,plays,Donald,Reynaud,donald.reynaud@green.edu.au
+2404,Allen-Curtis,canceled,532,US,70600.0,42596.0,2020-09-13 05:00:00,music,rock,Venancio,Stadelmann,venancio.stadelmann@gmx.de
+990,Morgan-Martinez,canceled,55,AU,148500.0,4756.0,2021-03-23 05:00:00,food,food trucks,Seth,Olivier,seth.olivier@yahoo.com
+1459,"Luna, Anderson and Fox",successful,533,DK,9600.0,14925.0,2020-10-10 05:00:00,film & video,drama,Dennis,Boaga,dennis.boaga@gmx.de
+1106,"Fleming, Zhang and Henderson",successful,2443,GB,164700.0,166116.0,2021-07-17 05:00:00,technology,web,Pedro,Wilson,pedro.wilson@outlook.com
+1488,Flowers and Sons,successful,89,US,3300.0,3834.0,2020-10-20 05:00:00,theater,plays,Roland,Weihmann,roland.weihmann@gmail.com
+2107,Gates PLC,successful,159,US,4500.0,13985.0,2020-07-09 05:00:00,music,world music,Hector,Morrison,hector.morrison@web.de
+2660,Caldwell LLC,failed,940,CH,99500.0,89288.0,2021-07-23 05:00:00,film & video,documentary,Evangelos,Peters,evangelos.peters@sanchez.net
+2647,"Le, Burton and Evans",failed,117,US,7700.0,5488.0,2020-12-25 06:00:00,theater,plays,Gerardo,Hamilton,gerardo.hamilton@libero.it
+565,Briggs PLC,canceled,58,US,82800.0,2721.0,2021-03-23 05:00:00,film & video,drama,Meta,Cuzzocrea,meta.cuzzocrea@howard-jensen.org
+2713,Hudson-Nguyen,successful,50,US,1800.0,4712.0,2020-04-07 05:00:00,publishing,nonfiction,Alma,Raymond,alma.raymond@tin.it
+558,Hogan Ltd,failed,115,US,9600.0,9216.0,2021-05-10 05:00:00,games,mobile games,Kathleen,Solimena,kathleen.solimena@wallace.biz
+698,"Hamilton, Wright and Chavez",failed,326,US,92100.0,19246.0,2021-01-14 06:00:00,technology,wearables,Zacharie,Cordier,zacharie.cordier@gmail.com
+321,Bautista-Cross,successful,186,US,5500.0,12274.0,2020-10-18 05:00:00,film & video,documentary,Riza,Techer,riza.techer@yahoo.com
+1302,Jackson LLC,successful,1071,US,64300.0,65323.0,2020-05-07 05:00:00,technology,web,Enrique,Guillen,enrique.guillen@hotmail.co.uk
+1410,Figueroa Ltd,successful,117,US,5000.0,11502.0,2021-05-26 05:00:00,technology,web,Tristan,Weeks,tristan.weeks@pena.com
+2465,Avila-Jones,successful,70,US,5400.0,7322.0,2020-12-03 06:00:00,music,indie rock,Natalie,Lerma,natalie.lerma@boucher.com
+377,"Martin, Lopez and Hunter",successful,135,US,9000.0,11619.0,2021-02-07 06:00:00,theater,plays,Rodney,Hamon,rodney.hamon@hotmail.com
+1882,Fields-Moore,successful,768,CH,25000.0,59128.0,2021-01-28 06:00:00,technology,wearables,Adalberto,Lombardo,adalberto.lombardo@sfr.fr
+822,Harris-Golden,canceled,51,US,8800.0,1518.0,2020-09-15 05:00:00,theater,plays,Florencia,Querini,florencia.querini@gmail.com
+2730,"Moss, Norman and Dunlap",successful,199,US,8300.0,9337.0,2021-08-21 05:00:00,theater,plays,Liam,Rolland,liam.rolland@yahoo.fr
+2198,"White, Larson and Wright",successful,107,US,9300.0,11255.0,2020-04-19 05:00:00,technology,wearables,Ian,Kelly,ian.kelly@reeves.com.au
+2757,"Payne, Oliver and Burch",successful,195,US,6200.0,13632.0,2020-09-08 05:00:00,music,indie rock,Mehdi,Todd,mehdi.todd@web.de
+2588,"Brown, Palmer and Pace",failed,1,US,100.0,1.0,2021-01-21 06:00:00,music,rock,Rembrandt,Liguori,rembrandt.liguori@davis.org
+1090,Parker LLC,failed,1467,US,137200.0,88037.0,2021-12-02 06:00:00,music,electric music,Irmi,Schweitzer,irmi.schweitzer@ozuna.com
+64,"Bowen, Mcdonald and Hall",successful,3376,US,41500.0,175573.0,2020-11-13 06:00:00,music,indie rock,Gioffre,Stein,gioffre.stein@hotmail.com.au
+2171,"Whitehead, Bell and Hughes",failed,5681,US,189400.0,176112.0,2021-07-17 05:00:00,theater,plays,Frida,Villarreal,frida.villarreal@hotmail.de
+625,Rodriguez-Brown,failed,1059,US,171300.0,100650.0,2021-01-29 06:00:00,music,indie rock,Steffen,Mangold,steffen.mangold@paul.net
+1065,Hall-Schaefer,failed,1194,US,139500.0,90706.0,2021-05-23 05:00:00,theater,plays,Elias,Marin,elias.marin@herve.net
+174,Meza-Rogers,canceled,379,AU,36400.0,26914.0,2020-11-24 06:00:00,music,rock,Roman,Gonzalez,roman.gonzalez@anderson.net
+1344,Curtis-Curtis,failed,30,AU,4200.0,2212.0,2021-04-20 05:00:00,photography,photography books,Reina,Middleton,reina.middleton@hotmail.com
+2824,Carlson Inc,successful,41,US,2100.0,4640.0,2020-12-28 06:00:00,music,rock,Sandro,Moran,sandro.moran@hotmail.de
+940,"Clarke, Anderson and Lee",successful,1821,US,191200.0,191222.0,2021-05-22 05:00:00,theater,plays,Gebhard,Thanel,gebhard.thanel@gmail.com
+3024,Evans Group,successful,164,US,8000.0,12985.0,2021-04-26 05:00:00,technology,wearables,Antonino,Bolander,antonino.bolander@gmail.com
+2164,Bruce Group,failed,75,US,5500.0,4300.0,2021-02-01 06:00:00,technology,web,Karl,Trevisani,karl.trevisani@anguissola.it
+2427,"Keith, Alvarez and Potter",successful,157,CH,6100.0,9134.0,2021-09-05 05:00:00,music,rock,Silvester,Brookes,silvester.brookes@franco.org
+1548,Burton-Watkins,successful,246,US,3500.0,8864.0,2020-08-01 05:00:00,photography,photography books,Octavio,Pratt,octavio.pratt@web.de
+2657,Lopez and Sons,successful,1396,US,150500.0,150755.0,2021-11-14 06:00:00,theater,plays,Rebecca,Greer,rebecca.greer@hotmail.com
+2916,Cordova Ltd,successful,2506,US,90400.0,110279.0,2021-05-05 05:00:00,technology,web,Pierina,Gaggini,pierina.gaggini@free.fr
+1348,Brown-Vang,successful,244,US,9800.0,13439.0,2021-01-11 06:00:00,photography,photography books,Robin,Schleich,robin.schleich@rogers-barrera.biz
+557,Cruz-Ward,successful,146,AU,2600.0,10804.0,2021-04-01 05:00:00,theater,plays,Sergio,Abbott,sergio.abbott@moore.net.au
+2915,Hernandez Group,failed,955,DK,128100.0,40107.0,2020-05-16 05:00:00,music,indie rock,Gilberto,Evans,gilberto.evans@salcedo-archuleta.net
+320,"Tran, Steele and Wilson",successful,1267,US,23300.0,98811.0,2020-07-10 05:00:00,film & video,shorts,James,Elliott,james.elliott@gmail.com
+1458,"Summers, Gallegos and Stein",failed,67,US,188100.0,5528.0,2020-09-24 05:00:00,music,indie rock,Timoteo,Bolnbach,timoteo.bolnbach@laboratorios.com
+379,Blair Group,failed,5,US,4900.0,521.0,2020-11-17 06:00:00,publishing,translations,Tonino,Stanley,tonino.stanley@hotmail.com
+1879,Nixon Inc,failed,26,US,800.0,663.0,2020-09-04 05:00:00,film & video,documentary,Margaretha,Murialdo,margaretha.murialdo@meunier.com
+597,White LLC,successful,1561,US,96700.0,157635.0,2021-03-21 05:00:00,theater,plays,Bianca,Drubin,bianca.drubin@libero.it
+1130,"Santos, Black and Donovan",successful,48,US,600.0,5368.0,2020-04-15 05:00:00,technology,wearables,Kaylee,Hoffmann,kaylee.hoffmann@poulain.com
+2354,"Jones, Contreras and Burnett",failed,1130,US,181200.0,47459.0,2021-01-27 06:00:00,theater,plays,Teresa,Vecellio,teresa.vecellio@yahoo.com
+1358,Stone-Orozco,failed,782,US,115000.0,86060.0,2021-01-06 06:00:00,theater,plays,Emine,Tacchini,emine.tacchini@dbmail.com
+188,"Lee, Gibson and Morgan",successful,2739,US,38800.0,161593.0,2021-05-02 05:00:00,theater,plays,Dawn,Cortez,dawn.cortez@gmail.com
+2228,Alexander-Williams,failed,210,US,7200.0,6927.0,2021-04-17 05:00:00,food,food trucks,Emily,Cundari,emily.cundari@clark.com.au
+1743,Marks Ltd,successful,3537,CA,44500.0,159185.0,2020-09-14 05:00:00,theater,plays,Eleanor,Hall,eleanor.hall@hotmail.com
+2563,"Olsen, Edwards and Reid",successful,2107,AU,56000.0,172736.0,2020-10-09 05:00:00,technology,wearables,Monique,Delgadillo,monique.delgadillo@hotmail.co.uk
+2424,"Daniels, Rose and Tyler",failed,136,US,8600.0,5315.0,2021-03-17 05:00:00,technology,web,Arnaude,Warner,arnaude.warner@gmail.com
+2369,Adams Group,successful,3318,DK,27100.0,195750.0,2021-03-09 06:00:00,theater,plays,Jason,Howell,jason.howell@gmx.de
+1134,"Rogers, Huerta and Medina",failed,86,CA,5100.0,3525.0,2020-04-16 05:00:00,music,rock,Nicole,Mccullough,nicole.mccullough@hall.com
+2241,"Howard, Carter and Griffith",successful,340,US,3600.0,10550.0,2021-07-13 05:00:00,theater,plays,Rosmarie,Esquibel,rosmarie.esquibel@bouygtel.fr
+2745,Bailey PLC,failed,19,US,1000.0,718.0,2020-04-28 05:00:00,film & video,television,Leonor,Ferreira,leonor.ferreira@gmail.com
+1055,Parker Group,failed,886,US,88800.0,28358.0,2021-02-10 06:00:00,theater,plays,Brett,Jones,brett.jones@alice.it
+1215,Fox Group,successful,1442,CA,60200.0,138384.0,2020-06-12 05:00:00,film & video,shorts,Nino,Bien,nino.bien@gmail.com
+2036,"Walker, Jones and Rodriguez",failed,35,IT,8200.0,2625.0,2021-06-18 05:00:00,theater,plays,Jemma,Tate,jemma.tate@hotmail.de
+1191,Anthony-Shaw,canceled,441,US,191300.0,45004.0,2021-01-30 06:00:00,theater,plays,Denis,Rogers,denis.rogers@poste.it
+879,Cook LLC,failed,24,US,3700.0,2538.0,2021-02-24 06:00:00,theater,plays,Vanesa,Khan,vanesa.khan@voila.fr
+3062,Sutton PLC,failed,86,IT,8400.0,3188.0,2020-07-25 05:00:00,theater,plays,Victoria,Ojeda,victoria.ojeda@doehn.com
+611,"Long, Morgan and Mitchell",failed,243,US,42600.0,8517.0,2020-11-07 06:00:00,music,rock,Eugenio,Martin,eugenio.martin@yahoo.de
+3195,"Calhoun, Rogers and Long",failed,65,US,6600.0,3012.0,2020-04-25 05:00:00,music,indie rock,Nancy,Hayes,nancy.hayes@hotmail.com
+1221,Sandoval Group,successful,126,US,7100.0,8716.0,2021-08-30 05:00:00,music,metal,Lara,Jacob,lara.jacob@buckley.org
+2536,Smith and Sons,successful,524,US,15800.0,57157.0,2021-02-02 06:00:00,music,electric music,Gino,Hernandez,gino.hernandez@covarrubias.com
+1834,King Inc,failed,100,DK,8200.0,5178.0,2020-08-06 05:00:00,technology,wearables,Vicente,Tijerina,vicente.tijerina@montanariello.com
+593,Perry and Sons,successful,1989,US,54700.0,163118.0,2021-03-14 06:00:00,film & video,drama,Michele,Brambilla,michele.brambilla@yahoo.com
+3039,Palmer Inc,failed,168,US,63200.0,6041.0,2021-04-05 05:00:00,music,electric music,Dana,Ritacca,dana.ritacca@gmail.com
+777,"Hull, Baker and Martinez",failed,13,US,1800.0,968.0,2020-03-14 05:00:00,music,rock,Mitchell,Bachmann,mitchell.bachmann@suarez-cruz.com
+835,"Becker, Rice and White",failed,1,CA,100.0,2.0,2020-09-24 05:00:00,theater,plays,Vincenza,Key,vincenza.key@adams.com
+797,"Osborne, Perkins and Knox",successful,157,US,2100.0,14305.0,2021-02-09 06:00:00,technology,web,Salvador,Gaillard,salvador.gaillard@yahoo.de
+509,Mcknight-Freeman,canceled,82,US,8300.0,6543.0,2020-08-13 05:00:00,food,food trucks,Diane,Rogner,diane.rogner@kelly.co.uk
+2286,"Hayden, Shannon and Stein",successful,4498,AU,143900.0,193413.0,2021-05-24 05:00:00,theater,plays,Josette,Laine,josette.laine@saracino-parisi.net
+2110,Daniel-Luna,failed,40,US,75000.0,2529.0,2020-10-20 05:00:00,music,jazz,Courtney,Fiebig,courtney.fiebig@doerschner.com
+1038,Weaver-Marquez,successful,80,US,1300.0,5614.0,2021-04-10 05:00:00,theater,plays,Hugues,Oliver,hugues.oliver@stiffel.com
+2893,"Austin, Baker and Kelley",canceled,57,US,9000.0,3496.0,2021-06-04 05:00:00,publishing,fiction,Espartaco,Willis,espartaco.willis@hotmail.com
+805,Carney-Anderson,successful,43,US,1000.0,4257.0,2020-12-25 06:00:00,music,rock,Flavia,Yoder,flavia.yoder@hotmail.de
+225,Jackson Inc,successful,2053,US,196900.0,199110.0,2020-12-07 06:00:00,film & video,documentary,Casey,Flores,casey.flores@baggio.org
+968,Warren Ltd,live,808,AU,194500.0,41212.0,2021-06-07 05:00:00,film & video,documentary,Calogero,Cross,calogero.cross@mercantini.it
+1369,Schultz Inc,failed,226,DK,9400.0,6338.0,2021-01-28 06:00:00,film & video,science fiction,Charles,Begum,charles.begum@laboratorios.info
+1417,Thompson LLC,failed,1625,US,104400.0,99100.0,2020-06-13 05:00:00,theater,plays,Adina,Pollard,adina.pollard@outlook.com
+3011,Johnson Inc,successful,168,US,8100.0,12300.0,2020-02-24 06:00:00,theater,plays,Natasha,Lara,natasha.lara@outlook.com
+2691,Morgan-Warren,successful,4289,US,87900.0,171549.0,2020-12-20 06:00:00,music,indie rock,Benita,Pottier,benita.pottier@sfr.fr
+2159,Sullivan Group,successful,165,US,1400.0,14324.0,2021-06-01 05:00:00,music,rock,Elizabeth,Valdivia,elizabeth.valdivia@gmail.com
+2515,"Vargas, Banks and Palmer",failed,143,US,156800.0,6024.0,2020-10-07 05:00:00,theater,plays,Mattia,Huet,mattia.huet@aol.de
+544,"Johnson, Dixon and Zimmerman",successful,1815,US,121700.0,188721.0,2020-08-22 05:00:00,theater,plays,Geza,Howard,geza.howard@voila.fr
+3030,"Moore, Dudley and Navarro",failed,934,US,129400.0,57911.0,2021-03-09 06:00:00,film & video,science fiction,Lauren,Guillaume,lauren.guillaume@sorgatz.org
+817,Price-Rodriguez,successful,397,GB,5700.0,12309.0,2021-02-04 06:00:00,film & video,shorts,Joanna,Baxter,joanna.baxter@bruce-wright.com
+1400,Huang-Henderson,successful,1539,US,41700.0,138497.0,2020-08-30 05:00:00,film & video,animation,Tracy,Metz,tracy.metz@bryant.info
+657,Owens-Le,failed,17,US,7900.0,667.0,2021-07-31 05:00:00,theater,plays,Birgit,Pena,birgit.pena@armellini.it
+966,Huff LLC,failed,2179,US,121500.0,119830.0,2021-04-10 05:00:00,food,food trucks,Elvira,Papafava,elvira.papafava@ifrance.com
+1558,Johnson LLC,successful,138,US,4800.0,6623.0,2020-12-18 06:00:00,photography,photography books,Ernest,Delorme,ernest.delorme@dowerg.de
+1379,"Chavez, Garcia and Cantu",failed,931,US,87300.0,81897.0,2021-03-28 05:00:00,theater,plays,Christy,Grossi,christy.grossi@alarcon-tafoya.com
+286,Lester-Moore,successful,3594,US,46300.0,186885.0,2021-01-01 06:00:00,film & video,science fiction,Hermelinda,Olmos,hermelinda.olmos@portillo.com
+894,Fox-Quinn,successful,5880,US,67800.0,176398.0,2020-10-14 05:00:00,music,rock,Herbert,Fraser,herbert.fraser@holloway.org.au
+709,Garcia Inc,successful,112,US,3000.0,10999.0,2020-11-26 06:00:00,photography,photography books,Giancarlo,Heydrich,giancarlo.heydrich@hotmail.com
+1599,Johnson-Lee,successful,943,US,60900.0,102751.0,2020-08-07 05:00:00,games,mobile games,Constance,Maldonado,constance.maldonado@spiess.net
+905,Pineda Group,successful,2468,US,137900.0,165352.0,2021-05-12 05:00:00,film & video,animation,Giampiero,Carlier,giampiero.carlier@hotmail.com
+146,Hoffman-Howard,successful,2551,US,85600.0,165798.0,2020-12-19 06:00:00,games,mobile games,Carlo,Jacquot,carlo.jacquot@hotmail.com
+1632,"Miranda, Hall and Mcgrath",successful,101,US,2400.0,10084.0,2021-01-25 06:00:00,games,video games,Gabriel,Robles,gabriel.robles@yahoo.com
+537,"Williams, Carter and Gonzalez",canceled,67,US,7200.0,5523.0,2021-02-12 06:00:00,theater,plays,Gerd,Gunpf,gerd.gunpf@gmail.com
+1289,Davis-Rodriguez,successful,92,US,3400.0,5823.0,2020-12-05 06:00:00,theater,plays,Ashley,Hellwig,ashley.hellwig@libero.it
+2712,"Reid, Rivera and Perry",successful,62,US,3800.0,6000.0,2021-10-15 05:00:00,film & video,animation,Patrick,Rosas,patrick.rosas@yahoo.com
+1980,Mendoza-Parker,successful,149,IT,7500.0,8181.0,2020-06-16 05:00:00,games,video games,Lilla,Leonard,lilla.leonard@jungfer.com
+296,"Lee, Ali and Guzman",failed,92,US,8600.0,3589.0,2020-09-15 05:00:00,film & video,animation,Tony,Nicolas,tony.nicolas@morrocco-seddio.net
+1760,Gallegos-Cobb,failed,57,AU,39500.0,4323.0,2021-01-21 06:00:00,music,rock,Allegra,Benedetti,allegra.benedetti@miller.com
+2435,Ellison PLC,successful,329,US,9300.0,14822.0,2021-03-15 05:00:00,film & video,animation,Camille,Tafuri,camille.tafuri@aol.de
+2343,"Bolton, Sanchez and Carrillo",successful,97,DK,2400.0,10138.0,2020-06-11 05:00:00,theater,plays,Juan,Wheeler,juan.wheeler@gilmore.net
+2556,Mason-Sanders,failed,41,US,3200.0,3127.0,2021-04-12 05:00:00,technology,wearables,Leopoldo,Johnson,leopoldo.johnson@hotmail.com.au
+2495,Pitts-Reed,successful,1784,US,29400.0,123124.0,2020-04-19 05:00:00,theater,plays,Dietmar,Grenier,dietmar.grenier@tele2.it
+2497,Gonzalez-Martinez,successful,1684,AU,168500.0,171729.0,2021-01-17 06:00:00,publishing,nonfiction,Leonid,Scholl,leonid.scholl@collin.com
+1955,"Hill, Martin and Garcia",successful,250,US,8400.0,10729.0,2020-08-22 05:00:00,music,rock,Olivie,Contarini,olivie.contarini@marshall-wright.biz
+1129,Garcia PLC,successful,238,US,2300.0,10240.0,2021-04-17 05:00:00,theater,plays,Jeffery,Lacroix,jeffery.lacroix@medina.org
+636,Herring-Bailey,successful,53,US,700.0,3988.0,2021-05-02 05:00:00,theater,plays,Edeltraud,Chavez,edeltraud.chavez@hotmail.com.au
+434,Russell-Gardner,successful,214,US,2900.0,14771.0,2020-09-16 05:00:00,theater,plays,Mesut,Morvan,mesut.morvan@gmail.com
+1231,Walters-Carter,successful,222,US,4500.0,14649.0,2020-11-20 06:00:00,technology,web,Gregory,Jackson,gregory.jackson@ortiz.com
+3162,"Johnson, Patterson and Montoya",successful,1884,US,19800.0,184658.0,2020-09-20 05:00:00,publishing,fiction,Nicola,Rossi,nicola.rossi@berry.org
+1717,Roberts and Sons,successful,218,AU,6200.0,13103.0,2020-11-03 06:00:00,games,mobile games,Eddie,Collazo,eddie.collazo@gmail.com
+211,Avila-Nelson,successful,6465,US,61500.0,168095.0,2020-03-25 05:00:00,publishing,translations,Philippe,Gardner,philippe.gardner@howells-jones.net
+2635,Robbins and Sons,failed,1,US,100.0,3.0,2020-09-16 05:00:00,music,rock,Roy,Fox,roy.fox@tejeda.com
+1854,Singleton Ltd,failed,101,US,7100.0,3840.0,2020-08-01 05:00:00,theater,plays,Heiderose,Garcia,heiderose.garcia@noos.fr
+436,Perez PLC,successful,59,US,1000.0,6263.0,2020-11-25 06:00:00,theater,plays,Claudine,Rowley,claudine.rowley@industrias.com
+2965,"Rogers, Jacobs and Jackson",failed,1335,CA,121500.0,108161.0,2020-09-03 05:00:00,film & video,drama,Astrid,Roht,astrid.roht@fastwebnet.it
+1034,Barry Group,successful,88,US,4600.0,8505.0,2021-06-24 05:00:00,publishing,nonfiction,Auguste,Burnett,auguste.burnett@yahoo.fr
+614,"Rosales, Branch and Harmon",successful,1697,US,80500.0,96735.0,2020-11-03 06:00:00,music,rock,Pellegrino,Allen,pellegrino.allen@gmail.com
+1792,Smith-Reid,failed,15,GB,4100.0,959.0,2020-11-03 06:00:00,music,rock,Angela,Bowers,angela.bowers@laboratorios.com
+121,Williams Inc,successful,92,US,5700.0,8322.0,2020-05-03 05:00:00,theater,plays,Michael,Descamps,michael.descamps@gmail.com
+2936,"Duncan, Mcdonald and Miller",successful,186,US,5000.0,13424.0,2020-11-14 06:00:00,theater,plays,Heidelore,Kennedy,heidelore.kennedy@guinizzelli.org
+2081,Watkins Ltd,successful,138,US,1800.0,10755.0,2021-04-07 05:00:00,photography,photography books,Lucrezia,Koch,lucrezia.koch@petit.com
+1204,Allen-Jones,successful,261,US,6300.0,9935.0,2021-07-15 05:00:00,music,rock,Ivan,Accardo,ivan.accardo@web.de
+669,Mason-Smith,failed,454,US,84300.0,26303.0,2021-08-04 05:00:00,music,rock,Karen,Avogadro,karen.avogadro@yahoo.com
+735,"Lloyd, Kennedy and Davis",successful,107,US,1700.0,5328.0,2021-02-27 06:00:00,music,indie rock,Laetitia,Gallet,laetitia.gallet@aubry.org
+933,Walker Ltd,successful,199,US,2900.0,10756.0,2020-10-26 05:00:00,photography,photography books,Amico,Gosselin,amico.gosselin@shaw.info
+3055,Gordon PLC,successful,5512,US,45600.0,165375.0,2021-08-29 05:00:00,theater,plays,Ilaria,Bowen,ilaria.bowen@hotmail.it
+270,Lee and Sons,successful,86,US,4900.0,6031.0,2020-05-15 05:00:00,theater,plays,Marlen,Coardi,marlen.coardi@colletti.eu
+647,Cole LLC,failed,3182,IT,111900.0,85902.0,2021-08-07 05:00:00,music,jazz,Rafael,Alexander,rafael.alexander@jenkins.com
+1219,Acosta PLC,successful,2768,AU,61600.0,143910.0,2021-05-08 05:00:00,theater,plays,Herma,Gabbana,herma.gabbana@hotmail.com
+1257,Brown-Mckee,successful,48,US,1500.0,2708.0,2021-03-23 05:00:00,film & video,documentary,Zachary,Vespucci,zachary.vespucci@industrias.com
+2162,Miles and Sons,successful,87,US,3500.0,8842.0,2021-06-11 05:00:00,film & video,television,Marisol,Richard,marisol.richard@gmail.com
+2274,"Sawyer, Horton and Williams",canceled,1890,US,173900.0,47260.0,2021-10-07 05:00:00,games,video games,Joseph,Glover,joseph.glover@laposte.net
+2284,Foley-Cox,live,61,US,153700.0,1953.0,2021-07-09 05:00:00,photography,photography books,Lauretta,Neal,lauretta.neal@hotmail.de
+407,"Horton, Morrison and Clark",successful,1894,US,51100.0,155349.0,2021-06-18 05:00:00,theater,plays,Simone,Sauvage,simone.sauvage@yahoo.com
+2440,Thomas and Sons,successful,282,CA,7800.0,10704.0,2020-11-04 06:00:00,theater,plays,Ramona,Brooks,ramona.brooks@kensy.de
+2476,Morgan-Jenkins,failed,15,US,2400.0,773.0,2021-09-13 05:00:00,theater,plays,Gioele,Schwital,gioele.schwital@moody.com
+41,"Ward, Sanchez and Kemp",successful,116,US,3900.0,9419.0,2021-06-02 05:00:00,publishing,translations,Elena,Jimenez,elena.jimenez@yahoo.com.au
+890,Fields Ltd,failed,133,US,5500.0,5324.0,2021-05-23 05:00:00,games,video games,Pam,Vargas,pam.vargas@guillot.net
+2743,Ramos-Mitchell,successful,83,US,700.0,7465.0,2020-12-14 06:00:00,theater,plays,Alison,Morales,alison.morales@lewis.com
+266,"Higgins, Davis and Salazar",successful,91,US,2700.0,8799.0,2021-03-28 05:00:00,technology,web,Marc,Aumann,marc.aumann@holland.com
+3113,Smith-Jenkins,successful,546,US,8000.0,13656.0,2020-10-02 05:00:00,theater,plays,Carla,Butler,carla.butler@yahoo.com
+1909,Braun PLC,successful,393,US,2500.0,14536.0,2021-07-06 05:00:00,film & video,animation,Dionigi,Bruce,dionigi.bruce@industrias.com
+962,Drake PLC,failed,2062,US,164500.0,150552.0,2020-02-25 06:00:00,theater,plays,Frank,Henry,frank.henry@yahoo.com
+213,"Ross, Kelly and Brown",successful,133,US,8400.0,9076.0,2021-07-20 05:00:00,film & video,television,Brent,Pons,brent.pons@proyectos.net
+2741,Lucas-Mullins,failed,29,DK,8100.0,1517.0,2020-05-27 05:00:00,music,rock,Patricia,Liebelt,patricia.liebelt@baca.org
+2589,Tran LLC,failed,132,US,9800.0,8153.0,2021-02-20 06:00:00,technology,web,Micheletto,Sykes,micheletto.sykes@thompson-thompson.com
+1238,"Dawson, Brady and Gilbert",successful,254,US,900.0,6357.0,2020-08-19 05:00:00,theater,plays,Rose,Blanc,rose.blanc@grupo.com
+164,Obrien-Aguirre,canceled,184,US,112100.0,19557.0,2021-02-15 06:00:00,theater,plays,Vincent,Singh,vincent.singh@gmail.com
+2685,Ferguson PLC,successful,176,US,6300.0,13213.0,2020-10-03 05:00:00,music,electric music,Jamie,Peacock,jamie.peacock@interiano-nordio.com
+2836,Garcia Ltd,failed,137,DK,5600.0,5476.0,2020-12-13 06:00:00,music,metal,Giorgia,Dijoux,giorgia.dijoux@paul.com
+2062,"Smith, Love and Smith",successful,337,CA,800.0,13474.0,2021-03-11 06:00:00,theater,plays,Serena,Piacentini,serena.piacentini@yahoo.de
+3111,"Wilson, Hall and Osborne",failed,908,US,168600.0,91722.0,2020-11-18 06:00:00,film & video,documentary,Dimitri,Posada,dimitri.posada@gmail.com
+1414,"Bell, Grimes and Kerr",successful,107,US,1800.0,8219.0,2021-03-05 06:00:00,technology,web,Alexa,Barillaro,alexa.barillaro@ramos.net
+2765,Ho-Harris,failed,10,US,7300.0,717.0,2020-12-01 06:00:00,food,food trucks,Megan,Kuhl,megan.kuhl@despacho.com
+939,Ross Group,canceled,32,IT,6500.0,1065.0,2021-02-02 06:00:00,theater,plays,Kaitlyn,Farinelli,kaitlyn.farinelli@outlook.com
+390,Turner-Davis,successful,183,US,600.0,8038.0,2021-02-17 06:00:00,theater,plays,Jonathan,Castellitto,jonathan.castellitto@libero.it
+2851,"Smith, Jackson and Herrera",failed,1910,CH,192900.0,68769.0,2021-02-07 06:00:00,theater,plays,Lisa,Terragni,lisa.terragni@proyectos.com
+1607,Smith-Hess,failed,38,AU,6100.0,3352.0,2020-04-28 05:00:00,theater,plays,Olivier,Petrucelli,olivier.petrucelli@letta-raurica.eu
+3201,"Brown, Herring and Bass",failed,104,AU,7200.0,6785.0,2020-11-26 06:00:00,theater,plays,Jos,Trobbiani,jos.trobbiani@samson.com
+641,"Chase, Garcia and Johnson",successful,72,US,3500.0,5037.0,2021-05-20 05:00:00,music,rock,Mirjam,Dawson,mirjam.dawson@yahoo.com
+524,Ramsey and Sons,failed,49,US,3800.0,1954.0,2021-11-23 06:00:00,food,food trucks,Javier,Tessier,javier.tessier@mclaughlin.biz
+2423,Cooke PLC,failed,1,DK,100.0,5.0,2020-12-05 06:00:00,publishing,nonfiction,Mirjana,Collins,mirjana.collins@hotmail.com
+1532,Wong-Walker,successful,295,US,900.0,12102.0,2021-06-08 05:00:00,film & video,documentary,Vanessa,Tschentscher,vanessa.tschentscher@mitchell.com
+1748,"Ferguson, Collins and Mata",failed,245,US,76100.0,24234.0,2020-06-07 05:00:00,theater,plays,Antonina,Cobb,antonina.cobb@gibson.org
+3168,"Guerrero, Flores and Jenkins",failed,32,US,3400.0,2809.0,2021-01-12 06:00:00,music,indie rock,Bernard,Durand,bernard.durand@royer.com
+1077,Peterson PLC,successful,142,US,2100.0,11469.0,2021-02-03 06:00:00,film & video,documentary,Corey,Greggio,corey.greggio@johnson.org.au
+3114,Townsend Ltd,successful,85,US,2800.0,8014.0,2021-01-27 06:00:00,theater,plays,Rodolfo,Couturier,rodolfo.couturier@tim.it
+2547,"Rush, Reed and Hall",failed,7,US,6500.0,514.0,2021-08-12 05:00:00,theater,plays,Pierre,Cardenas,pierre.cardenas@luzi-bonomo.eu
+2065,Salazar-Dodson,successful,659,DK,32900.0,43473.0,2021-03-20 05:00:00,publishing,fiction,Romeo,Surian,romeo.surian@batista.com
+1143,Davis Ltd,failed,803,US,118200.0,87560.0,2021-07-17 05:00:00,theater,plays,Ivo,Moreno,ivo.moreno@hotmail.com
+2545,Harris-Perry,canceled,75,US,4100.0,3087.0,2021-03-05 06:00:00,music,indie rock,Federico,Marie,federico.marie@jourdan.fr
+1315,"Velazquez, Hunt and Ortiz",failed,16,US,7800.0,1586.0,2021-03-28 05:00:00,games,video games,Maggie,Boito,maggie.boito@yahoo.com
+2219,Flores PLC,successful,121,US,6300.0,12812.0,2020-12-09 06:00:00,theater,plays,Brianna,Hanson,brianna.hanson@stanley.com
+854,Martinez LLC,successful,3742,US,59100.0,183345.0,2020-12-31 06:00:00,theater,plays,Heiko,Bourgeois,heiko.bourgeois@togliatti.com
+336,Miller-Irwin,successful,223,US,2200.0,8697.0,2021-11-26 06:00:00,music,rock,Benito,Gritti,benito.gritti@gmail.com
+3014,Sanchez-Morgan,successful,133,US,1400.0,4126.0,2020-06-04 05:00:00,film & video,documentary,Mitzy,Junk,mitzy.junk@zaragoza.com
+326,"Lopez, Adams and Johnson",failed,31,US,9500.0,3220.0,2021-07-10 05:00:00,theater,plays,Samantha,Lowe,samantha.lowe@praga.it
+2991,Martin-Marshall,failed,108,IT,9600.0,6401.0,2020-12-19 06:00:00,food,food trucks,Ernesto,Nerger,ernesto.nerger@middleton.co.uk
+1359,Summers PLC,failed,30,US,6600.0,1269.0,2020-07-31 05:00:00,theater,plays,Melinda,Canova,melinda.canova@orange.fr
+341,"Young, Hart and Ryan",failed,17,US,5700.0,903.0,2021-07-29 05:00:00,music,rock,Mohammad,Hartung,mohammad.hartung@hotmail.com
+2365,Mills Group,canceled,64,US,8400.0,3251.0,2020-03-24 05:00:00,technology,web,Ben,Maillot,ben.maillot@ramos.net
+358,Sandoval-Powell,failed,80,US,84400.0,8092.0,2021-05-09 05:00:00,publishing,fiction,Isabel,Pruschke,isabel.pruschke@gmail.com
+583,"Mills, Frazier and Perez",failed,2468,US,170400.0,160422.0,2021-05-30 05:00:00,film & video,shorts,Linda,Franceschi,linda.franceschi@richards.net
+1373,Hebert Group,successful,5168,US,117900.0,196377.0,2021-03-18 05:00:00,theater,plays,Olivia,Striebitz,olivia.striebitz@gmail.com
+2665,"Cole, Smith and Wood",failed,26,GB,8900.0,2148.0,2021-05-03 05:00:00,film & video,documentary,Penny,Watson,penny.watson@matthews.net
+2500,"Harris, Hall and Harris",successful,307,US,7100.0,11648.0,2021-04-18 05:00:00,theater,plays,Manfred,James,manfred.james@davies.org
+921,Saunders Group,failed,73,US,6500.0,5897.0,2020-05-31 05:00:00,theater,plays,Hazel,Pierce,hazel.pierce@outlook.com
+135,"Pham, Avila and Nash",failed,128,US,7200.0,3326.0,2020-05-27 05:00:00,film & video,animation,Alf,Bates,alf.bates@dunn.com
+2413,"Patterson, Salinas and Lucas",failed,33,US,2600.0,1002.0,2020-04-10 05:00:00,theater,plays,Scott,Gough,scott.gough@industrias.com
+3004,Young PLC,successful,2441,US,98700.0,131826.0,2020-09-01 05:00:00,music,rock,Konrad,Briones,konrad.briones@fierro.com
+1911,Willis and Sons,live,211,US,93800.0,21477.0,2021-04-06 05:00:00,games,video games,Mathilde,Kruschwitz,mathilde.kruschwitz@yahoo.com
+2726,Thompson-Bates,successful,1385,GB,33700.0,62330.0,2021-01-05 06:00:00,film & video,documentary,Irma,Gemito,irma.gemito@googlemail.com
+2049,Rose-Silva,successful,190,US,3300.0,14643.0,2021-01-30 06:00:00,food,food trucks,Antoine,Guyon,antoine.guyon@yahoo.com
+1732,"Pacheco, Johnson and Torres",successful,470,US,20700.0,41396.0,2020-07-30 05:00:00,technology,wearables,William,Gibilisco,william.gibilisco@gaillard.com
+1174,"Carlson, Dixon and Jones",successful,253,US,9600.0,11900.0,2020-10-28 05:00:00,theater,plays,Judith,Butte,judith.butte@fischer-vaughn.info
+1194,Mcgee Group,successful,1113,US,66200.0,123538.0,2020-06-27 05:00:00,music,rock,Joanne,Henderson,joanne.henderson@gmail.com
+3176,Jordan-Acosta,successful,2283,US,173800.0,198628.0,2020-02-27 06:00:00,music,rock,Ludovica,Arellano,ludovica.arellano@morandi-argento.com
+642,Nunez Inc,failed,1072,US,70700.0,68602.0,2020-11-06 06:00:00,music,rock,Catherine,Gray,catherine.gray@hotmail.com
+34,Hayden Ltd,successful,1095,US,94500.0,116064.0,2020-06-17 05:00:00,theater,plays,Franco,Fioravanti,franco.fioravanti@barry-gill.com.au
+217,Gonzalez-Burton,successful,1690,US,69800.0,125042.0,2020-12-20 06:00:00,theater,plays,Heather,Zimmer,heather.zimmer@bluemel.de
+1693,"Lewis, Taylor and Rivers",canceled,1297,CA,136300.0,108974.0,2021-02-07 06:00:00,theater,plays,Hortense,Taylor,hortense.taylor@chambers.biz
+2333,"Butler, Henry and Espinoza",failed,393,US,37100.0,34964.0,2021-04-03 05:00:00,photography,photography books,Livia,Ernst,livia.ernst@colas.fr
+80,Guzman Group,failed,1257,US,114300.0,96777.0,2021-02-10 06:00:00,music,indie rock,Toby,Etzler,toby.etzler@industrias.com
+2847,Gibson-Hernandez,failed,328,US,47900.0,31864.0,2021-02-17 06:00:00,theater,plays,Ennio,Leoncavallo,ennio.leoncavallo@sanchez.org
+3104,Spencer-Weber,failed,147,US,9000.0,4853.0,2020-12-05 06:00:00,theater,plays,Philippine,Vaca,philippine.vaca@hotmail.com
+980,"Berger, Johnson and Marshall",failed,830,US,197600.0,82959.0,2020-12-12 06:00:00,games,video games,Rhonda,Phillips,rhonda.phillips@yahoo.com
+476,"Taylor, Cisneros and Romero",failed,331,GB,157600.0,23159.0,2021-04-06 05:00:00,film & video,drama,Alphonse,Nitto,alphonse.nitto@voila.fr
+116,Little-Marsh,failed,25,US,8000.0,2758.0,2021-10-07 05:00:00,music,indie rock,Karina,Arreola,karina.arreola@yahoo.com.au
+2900,Petersen and Sons,successful,191,US,900.0,12607.0,2021-05-03 05:00:00,technology,web,Denise,Wood,denise.wood@mantegna.com
+553,Hensley Ltd,failed,3483,US,199000.0,142823.0,2021-07-27 05:00:00,food,food trucks,Burghard,Rosenow,burghard.rosenow@hotmail.com
+2834,Navarro and Sons,failed,923,US,180800.0,95958.0,2021-05-27 05:00:00,theater,plays,Friedl,Powell,friedl.powell@laposte.net
+2314,Shannon Ltd,failed,1,US,100.0,5.0,2021-01-19 06:00:00,music,jazz,Benjamin,Schultz,benjamin.schultz@rivero-davila.com
+2005,Young LLC,successful,2013,US,74100.0,94631.0,2021-09-12 05:00:00,music,rock,Rachel,Ulibarri,rachel.ulibarri@schueler.com
+2514,"Adams, Willis and Sanchez",failed,33,CA,2800.0,977.0,2021-04-25 05:00:00,theater,plays,Silvano,Blanchet,silvano.blanchet@yahoo.com
+702,Mills-Roy,successful,1703,US,33600.0,137961.0,2020-07-25 05:00:00,theater,plays,Kurt,Sauer,kurt.sauer@almanza.biz
+42,Brown Group,successful,80,DK,6100.0,7548.0,2020-11-22 06:00:00,film & video,documentary,Nayeli,Gehringer,nayeli.gehringer@hotmail.com
+948,Burns-Burnett,live,86,US,3800.0,2241.0,2020-08-28 05:00:00,technology,wearables,Imelda,Guerin,imelda.guerin@stumpf.net
+2926,"Glass, Nunez and Mcdonald",failed,40,IT,9300.0,3431.0,2021-10-12 05:00:00,theater,plays,Zbigniew,Holmes,zbigniew.holmes@stiffel.net
+1971,"Perez, Davis and Wilson",successful,41,US,2300.0,4253.0,2020-10-20 05:00:00,games,video games,Adela,Alfonsi,adela.alfonsi@despacho.com
+748,Diaz-Garcia,failed,23,CA,9700.0,1146.0,2021-03-05 06:00:00,photography,photography books,Hilary,Clark,hilary.clark@libero.it
+684,Salazar-Moon,successful,187,US,4000.0,11948.0,2020-09-03 05:00:00,film & video,animation,Kornelius,Molina,kornelius.molina@heuser.com
+385,Larsen-Chung,successful,2875,GB,59700.0,135132.0,2020-12-28 06:00:00,theater,plays,Christian,Anderson,christian.anderson@tim.it
+3007,Anderson and Sons,successful,88,US,5500.0,9546.0,2021-03-07 06:00:00,theater,plays,Francisco,Dorsey,francisco.dorsey@tiscali.fr
+2612,Lawrence Group,successful,191,US,3700.0,13755.0,2021-04-23 05:00:00,music,rock,Walli,Albert,walli.albert@dussen.com
+807,Gray-Davis,successful,139,US,5200.0,8330.0,2021-03-12 06:00:00,music,rock,Siegrun,Mota,siegrun.mota@matthews-montoya.org.au
+2087,Ramirez-Myers,successful,186,US,900.0,14547.0,2020-11-25 06:00:00,music,indie rock,Alberico,Herve,alberico.herve@beer.net
+53,"Lucas, Hall and Bonilla",successful,112,AU,1600.0,11735.0,2021-07-24 05:00:00,theater,plays,Serafina,Bonnin,serafina.bonnin@mendes.com
+2944,"Williams, Perez and Villegas",successful,101,US,1800.0,10658.0,2021-01-25 06:00:00,theater,plays,Marcelle,Bender,marcelle.bender@edwards-robinson.info
+2963,"Brooks, Jones and Ingram",failed,75,US,9900.0,1870.0,2021-05-12 05:00:00,theater,plays,Hartmuth,Robertson,hartmuth.robertson@thomas.edu.au
+2976,"Whitaker, Wallace and Daniels",successful,206,GB,5200.0,14394.0,2021-07-05 05:00:00,film & video,documentary,Herlinde,George,herlinde.george@free.fr
+3051,Smith-Gonzalez,successful,154,US,5400.0,14743.0,2021-03-30 05:00:00,film & video,television,Pamela,Payne,pamela.payne@yahoo.com
+2777,Skinner PLC,successful,5966,US,112300.0,178965.0,2021-07-01 05:00:00,theater,plays,Gastone,Beyer,gastone.beyer@stewart-sanchez.edu
+3064,"Nolan, Smith and Sanchez",failed,2176,US,189200.0,128410.0,2021-10-19 05:00:00,theater,plays,Lydia,Berengario,lydia.berengario@aol.de
+56,Green-Carr,successful,169,US,900.0,14324.0,2021-05-15 05:00:00,film & video,documentary,Lucy,Davidson,lucy.davidson@tele2.it
+763,Brown-Parker,successful,2106,US,22500.0,164291.0,2021-01-23 06:00:00,theater,plays,Franck,Wade,franck.wade@gute.org
+896,Marshall Inc,failed,441,US,167400.0,22073.0,2021-03-10 06:00:00,film & video,documentary,Heidi,Barker,heidi.barker@gmail.com
+1409,Leblanc-Pineda,failed,25,US,2700.0,1479.0,2021-08-13 05:00:00,music,indie rock,Arnaldo,Ocasio,arnaldo.ocasio@hotmail.com
+2889,Perry PLC,successful,131,US,3400.0,12275.0,2020-06-23 05:00:00,music,rock,Francis,Bernier,francis.bernier@rodriguez.com
+2338,"Klein, Stark and Livingston",failed,127,US,49700.0,5098.0,2021-01-17 06:00:00,theater,plays,Johanne,Strong,johanne.strong@yahoo.de
+2905,Fleming-Oliver,failed,355,US,178200.0,24882.0,2021-02-10 06:00:00,film & video,documentary,Debra,Langlois,debra.langlois@schmiedecke.com
+1779,"Reilly, Aguirre and Johnson",failed,44,GB,7200.0,2912.0,2020-07-18 05:00:00,theater,plays,Reingard,Kambs,reingard.kambs@sagese.eu
+2291,"Davidson, Wilcox and Lewis",successful,84,US,2500.0,4008.0,2020-12-26 06:00:00,theater,plays,Mauro,Ortiz,mauro.ortiz@oquendo.net
+3192,"Michael, Anderson and Vincent",successful,155,US,5300.0,9749.0,2020-12-08 06:00:00,theater,plays,Griselda,Carranza,griselda.carranza@krause.de
+1696,King Ltd,failed,67,US,9100.0,5803.0,2021-03-29 05:00:00,photography,photography books,Janet,Madrigal,janet.madrigal@gmail.com
+1559,Baker Ltd,successful,189,US,6300.0,14199.0,2021-04-18 05:00:00,food,food trucks,Jenna,Day,jenna.day@reed.com
+1405,"Baker, Collins and Smith",successful,4799,US,114400.0,196779.0,2021-09-13 05:00:00,film & video,documentary,Modesto,Wright,modesto.wright@pareto.com
+521,Warren-Harrison,successful,1137,US,38900.0,56859.0,2020-04-20 05:00:00,publishing,nonfiction,Alice,Wall,alice.wall@zaccardo.it
+1625,Gardner Group,failed,1068,US,135500.0,103554.0,2021-06-20 05:00:00,theater,plays,Brenda,Sontag,brenda.sontag@solari.com
+2808,Flores-Lambert,failed,424,US,109000.0,42795.0,2021-07-18 05:00:00,technology,wearables,Sergius,Mace,sergius.mace@palazzo.com
+764,Cruz Ltd,canceled,145,CH,114800.0,12938.0,2020-06-26 05:00:00,music,indie rock,Antonia,Kline,antonia.kline@gmail.com
+834,Knox-Garner,successful,1152,US,83000.0,101352.0,2021-01-19 06:00:00,theater,plays,Maurice,Gumprich,maurice.gumprich@griffin.net.au
+2793,Davis-Allen,successful,50,US,2400.0,4477.0,2020-09-19 05:00:00,photography,photography books,Daniel,Anders,daniel.anders@yahoo.com
+2901,Miller-Patel,failed,151,US,60400.0,4393.0,2021-11-21 06:00:00,publishing,nonfiction,Zaira,Cattaneo,zaira.cattaneo@yahoo.com
+2141,Hernandez-Grimes,failed,1608,US,102900.0,67546.0,2021-01-07 06:00:00,technology,wearables,Alessio,Bruneau,alessio.bruneau@hotmail.co.uk
+308,"Owens, Hall and Gonzalez",successful,3059,CA,62800.0,143788.0,2020-11-19 06:00:00,music,jazz,Gerdi,Guerrero,gerdi.guerrero@tele2.fr
+705,Noble-Bailey,successful,34,US,800.0,3755.0,2020-06-26 05:00:00,film & video,documentary,Brigitte,Stiebitz,brigitte.stiebitz@gmail.com
+1670,Taylor PLC,successful,220,US,7100.0,9238.0,2020-05-21 05:00:00,theater,plays,June,Sinisi,june.sinisi@manzoni-giannini.it
+1159,Holmes PLC,successful,1604,AU,46100.0,77012.0,2020-08-11 05:00:00,film & video,drama,Carl,Macias,carl.macias@yahoo.com
+2592,Jones-Martin,successful,454,US,8100.0,14083.0,2020-09-21 05:00:00,music,rock,Veronica,Trapp,veronica.trapp@tiscali.it
+1195,Myers LLC,successful,123,IT,1700.0,12202.0,2020-07-01 05:00:00,film & video,animation,Frances,Garnier,frances.garnier@aporti-guidotti.org
+1635,"Acosta, Mullins and Morris",failed,941,US,97300.0,62127.0,2021-05-28 05:00:00,music,indie rock,Terri,Iannelli,terri.iannelli@hotmail.com
+2432,Bell PLC,failed,1,US,100.0,2.0,2021-10-07 05:00:00,photography,photography books,Odette,Moore,odette.moore@hall.edu
+109,Smith-Schmidt,successful,299,US,900.0,13772.0,2021-02-05 06:00:00,theater,plays,Mercedes,Trujillo,mercedes.trujillo@aol.de
+1509,"Ruiz, Richardson and Cole",failed,40,US,7300.0,2946.0,2020-10-28 05:00:00,film & video,shorts,Babette,Dumas,babette.dumas@brady.net
+1285,Leonard-Mcclain,failed,3015,CA,195800.0,168820.0,2021-04-16 05:00:00,theater,plays,Jerry,Santiago,jerry.santiago@soprano-ferragni.it
+500,Bailey-Boyer,successful,2237,US,48900.0,154321.0,2021-04-07 05:00:00,theater,plays,Ronald,Simpson,ronald.simpson@ovadia.net
+2835,Lee LLC,failed,435,US,29600.0,26527.0,2021-03-26 05:00:00,theater,plays,Emmanuel,Dominguez,emmanuel.dominguez@gmail.com
+1533,Lyons Inc,successful,645,US,39300.0,71583.0,2020-03-03 06:00:00,film & video,documentary,Christiane,Ricciardi,christiane.ricciardi@zavala.com
+2445,Herrera-Wilson,successful,484,DK,3400.0,12100.0,2021-05-03 05:00:00,theater,plays,Ingolf,Zamora,ingolf.zamora@yahoo.com.au
+2906,"Mahoney, Adams and Lucas",successful,154,CA,9200.0,12129.0,2020-05-04 05:00:00,film & video,documentary,Rita,Sharp,rita.sharp@beard-scott.edu.au
+1237,Stewart LLC,failed,714,US,135600.0,62804.0,2021-02-11 06:00:00,music,rock,Geraldine,Cabrera,geraldine.cabrera@green-smith.info
+1572,Mcmillan Group,live,1111,US,153700.0,55536.0,2021-03-22 05:00:00,games,mobile games,Chantal,Armas,chantal.armas@jenkins.net
+254,"Beck, Thompson and Martinez",successful,82,US,7800.0,8161.0,2021-03-21 05:00:00,theater,plays,Louis,Gilbert,louis.gilbert@gmail.com
+576,Rodriguez-Scott,successful,134,US,2100.0,14046.0,2020-10-14 05:00:00,publishing,fiction,Michelle,Collier,michelle.collier@peruzzi.it
+563,Rush-Bowers,live,1089,US,189500.0,117628.0,2021-04-12 05:00:00,film & video,animation,Guillermina,Nicholson,guillermina.nicholson@grondin.fr
+2201,Davis and Sons,failed,5497,US,188200.0,159405.0,2021-05-01 05:00:00,food,food trucks,Bertrand,Hopkins,bertrand.hopkins@gmail.com
+1339,Anderson-Pham,failed,418,US,113500.0,12552.0,2021-02-01 06:00:00,theater,plays,Alonso,Palomo,alonso.palomo@gehringer.de
+197,Stewart-Coleman,failed,1439,US,134600.0,59007.0,2021-01-15 06:00:00,film & video,documentary,Tina,Rodriguez,tina.rodriguez@web.de
+2035,"Bradshaw, Smith and Ryan",failed,15,US,1700.0,943.0,2021-05-09 05:00:00,theater,plays,Eva,Francis,eva.francis@parker.org
+1739,Jackson PLC,failed,1999,CA,163700.0,93963.0,2020-12-09 06:00:00,film & video,documentary,Ottavio,Rust,ottavio.rust@crespi.com
+2352,Ware-Arias,successful,5203,US,113800.0,140469.0,2021-04-28 05:00:00,technology,web,Amelia,Olvera,amelia.olvera@hotmail.com
+691,"Blair, Reyes and Woods",successful,94,US,5000.0,6423.0,2021-08-08 05:00:00,theater,plays,Paul,Palladio,paul.palladio@mclaughlin.net.au
+298,Thomas-Lopez,failed,118,US,9400.0,6015.0,2020-12-24 06:00:00,technology,wearables,Bernardo,Wieloch,bernardo.wieloch@budig.com
+206,"Brown, Davies and Pacheco",successful,205,US,8700.0,11075.0,2020-09-27 05:00:00,theater,plays,Umberto,Hicks,umberto.hicks@hill.com
+1003,Jones-Riddle,failed,162,US,147800.0,15723.0,2020-10-19 05:00:00,food,food trucks,Janko,Bishop,janko.bishop@tim.it
+1653,Schmidt-Gomez,failed,83,US,5100.0,2064.0,2021-06-02 05:00:00,music,indie rock,Jessika,Meunier,jessika.meunier@gmx.de
+1549,"Sullivan, Davis and Booth",successful,92,US,2700.0,7767.0,2021-03-21 05:00:00,photography,photography books,Isaac,Benard,isaac.benard@googlemail.com
+1026,Edwards-Kane,successful,219,US,1800.0,10313.0,2020-11-08 06:00:00,theater,plays,Alexandrie,Lambert,alexandrie.lambert@yahoo.com
+2523,"Hicks, Wall and Webb",successful,2526,US,174500.0,197018.0,2020-04-08 05:00:00,theater,plays,Roberto,Guyot,roberto.guyot@bennett.com
+1620,Mayer-Richmond,failed,747,US,101400.0,47037.0,2021-06-02 05:00:00,film & video,animation,Giulietta,Lucas,giulietta.lucas@club.com
+2594,Robles Ltd,canceled,2138,US,191000.0,173191.0,2021-02-19 06:00:00,photography,photography books,Damaris,Pininfarina,damaris.pininfarina@gmail.com
+539,Cochran Ltd,failed,84,US,8100.0,5487.0,2021-04-17 05:00:00,theater,plays,Fabrizia,Renard,fabrizia.renard@higgins-marks.com
+687,Rosales LLC,successful,94,US,5100.0,9817.0,2020-11-07 06:00:00,theater,plays,Camillo,Dehmel,camillo.dehmel@brown-campbell.com
+2302,Harper-Bryan,failed,91,US,7700.0,6369.0,2020-04-09 05:00:00,theater,plays,Ruggero,Parpinel,ruggero.parpinel@gmail.com
+694,"Potter, Harper and Everett",failed,792,US,121400.0,65755.0,2020-06-12 05:00:00,film & video,documentary,Stephen,Pratesi,stephen.pratesi@hotmail.com
+3123,Floyd-Sims,canceled,10,CA,5400.0,903.0,2020-07-04 05:00:00,theater,plays,Ludger,Naccari,ludger.naccari@ingram.biz
+2576,"Spence, Jackson and Kelly",successful,1713,IT,152400.0,178120.0,2020-08-26 05:00:00,theater,plays,Meryem,Tapia,meryem.tapia@yahoo.com
+2349,King-Nguyen,successful,249,US,1300.0,13678.0,2021-06-25 05:00:00,music,jazz,Jasmine,Juvara,jasmine.juvara@yahoo.com.au
+516,Hansen Group,successful,192,US,8100.0,9969.0,2020-05-21 05:00:00,film & video,animation,Victoire,Travaglia,victoire.travaglia@zacchia.com
+290,"Mathis, Hall and Hansen",successful,247,US,8300.0,14827.0,2021-03-29 05:00:00,theater,plays,Adrian,Noel,adrian.noel@perrin.com
+1691,Cummings Inc,successful,2293,US,28400.0,100900.0,2020-09-22 05:00:00,film & video,science fiction,Marvin,Howe,marvin.howe@gmail.com
+1689,Miller-Poole,successful,3131,US,102500.0,165954.0,2020-11-04 06:00:00,film & video,television,Hanne,Kidd,hanne.kidd@yahoo.com
+2403,Rodriguez-West,failed,32,US,7000.0,1744.0,2020-09-24 05:00:00,technology,wearables,Donatello,Millet,donatello.millet@fritsch.net
+3203,"Calderon, Bradford and Dean",successful,143,IT,5400.0,10731.0,2021-03-17 05:00:00,theater,plays,Eloisa,Pascarella,eloisa.pascarella@gmail.com
+2113,Clark-Bowman,canceled,90,US,9300.0,3232.0,2020-11-15 06:00:00,theater,plays,Erica,Zambrano,erica.zambrano@gmail.com
+3158,Hensley Ltd,successful,296,US,6200.0,10938.0,2020-10-28 05:00:00,music,indie rock,Paula,Canales,paula.canales@gilmore-guerrero.com
+348,Anderson-Pearson,successful,170,US,2100.0,10739.0,2020-09-11 05:00:00,theater,plays,Claudia,Bernard,claudia.bernard@mazzanti.it
+1136,"Martin, Martin and Solis",failed,186,US,6800.0,5579.0,2020-05-11 05:00:00,technology,wearables,Paulina,Miller,paulina.miller@lewis-barker.com
+956,Harrington-Harper,canceled,439,GB,155200.0,37754.0,2020-08-13 05:00:00,film & video,television,Kathrin,Godfrey,kathrin.godfrey@tele2.fr
+2393,Price and Sons,failed,605,US,89900.0,45384.0,2021-10-09 05:00:00,games,video games,Pina,Passalacqua,pina.passalacqua@yahoo.co.uk
+3208,Cuevas-Morales,successful,86,DK,900.0,8703.0,2020-11-02 06:00:00,games,video games,Julien,Miles,julien.miles@stevens-rose.com
+2530,Delgado-Hatfield,failed,1,CA,100.0,4.0,2020-12-14 06:00:00,film & video,animation,Suzanne,Benigni,suzanne.benigni@mennea-morlacchi.com
+305,Padilla-Porter,successful,6286,US,148400.0,182302.0,2020-12-31 06:00:00,music,rock,Annalisa,Pugh,annalisa.pugh@hotmail.fr
+1383,Morris Group,failed,31,US,4800.0,3045.0,2021-02-14 06:00:00,film & video,drama,Mathew,Maestas,mathew.maestas@casas-garrido.com
+783,Saunders Ltd,failed,1181,US,182400.0,102749.0,2020-05-20 05:00:00,film & video,science fiction,Laszlo,Vallee,laszlo.vallee@verdier.com
+47,Woods Inc,failed,39,US,4000.0,1763.0,2021-11-17 06:00:00,film & video,drama,Helen,Polanco,helen.polanco@hotmail.com
+3157,"Villanueva, Wright and Richardson",successful,3727,US,116500.0,137904.0,2020-10-14 05:00:00,theater,plays,Mateo,Sorrentino,mateo.sorrentino@calderon.com
+1646,"Wilson, Brooks and Clark",successful,1605,US,146400.0,152438.0,2021-11-14 06:00:00,music,indie rock,Eric,Barnes,eric.barnes@barrett-winter.com
+1729,"Sheppard, Smith and Spence",failed,46,US,5000.0,1332.0,2021-05-20 05:00:00,theater,plays,Dragica,West,dragica.west@yahoo.com.au
+2964,"Wise, Thompson and Allen",successful,2120,US,33800.0,118706.0,2021-01-16 06:00:00,theater,plays,Antje,Voisin,antje.voisin@gmail.com
+675,"Lane, Ryan and Chapman",failed,105,US,6300.0,5674.0,2021-02-22 06:00:00,film & video,documentary,Stanley,Mills,stanley.mills@parker-lee.biz
+790,"Rich, Alvarez and King",successful,50,US,2400.0,4119.0,2021-02-26 06:00:00,theater,plays,Brandy,Meraz,brandy.meraz@yahoo.com
+1103,Terry-Salinas,successful,2080,US,98800.0,139354.0,2020-03-21 05:00:00,film & video,drama,Conor,Reinhardt,conor.reinhardt@yahoo.com.au
+969,Wang-Rodriguez,failed,535,US,188800.0,57734.0,2021-10-13 05:00:00,games,mobile games,Gabino,Blot,gabino.blot@lewis-russell.org
+1634,Mckee-Hill,successful,2105,US,134300.0,145265.0,2020-03-28 05:00:00,film & video,animation,Alvaro,Lemus,alvaro.lemus@yahoo.com
+2279,Gomez LLC,successful,2436,US,71200.0,95020.0,2020-09-21 05:00:00,theater,plays,Patrizia,Wilms,patrizia.wilms@dbmail.com
+387,Gonzalez-Robbins,successful,80,US,4700.0,8829.0,2021-04-09 05:00:00,publishing,translations,Metin,Coulon,metin.coulon@ashley.com
+586,Obrien and Sons,successful,42,US,1200.0,3984.0,2021-04-16 05:00:00,technology,wearables,Reece,Valencia,reece.valencia@laboy-palomo.com
+1145,Shaw Ltd,successful,139,CA,1400.0,8053.0,2021-06-05 05:00:00,technology,web,Troy,Schmiedecke,troy.schmiedecke@picard.com
+2776,Hughes Inc,failed,16,US,4000.0,1620.0,2021-01-17 06:00:00,theater,plays,Wendy,Bustos,wendy.bustos@libero.it
+2099,Olsen-Ryan,successful,159,US,5600.0,10328.0,2020-07-13 05:00:00,film & video,drama,Guglielmo,Caldwell,guglielmo.caldwell@loeffler.com
+470,"Grimes, Holland and Sloan",successful,381,US,3600.0,10289.0,2021-04-16 05:00:00,technology,wearables,Travis,Cowan,travis.cowan@turner.info
+343,Perry and Sons,successful,194,GB,3100.0,9889.0,2021-03-04 06:00:00,food,food trucks,Brandi,Abbagnale,brandi.abbagnale@tele2.fr
+2090,"Turner, Young and Collins",failed,575,US,153800.0,60342.0,2020-10-28 05:00:00,music,rock,Hanno,Gollum,hanno.gollum@smith.com
+1401,Richardson Inc,successful,106,US,5000.0,8907.0,2021-02-21 06:00:00,music,electric music,Jutta,Burke,jutta.burke@elliott.com
+596,Santos-Young,successful,142,US,4000.0,14606.0,2021-02-03 06:00:00,film & video,television,Dorothe,Paz,dorothe.paz@fiebig.de
+1139,Nichols Ltd,successful,211,US,7400.0,8432.0,2021-07-02 05:00:00,publishing,translations,Desiree,Huerta,desiree.huerta@morris.com
+2080,Murphy PLC,failed,1120,US,191500.0,57122.0,2021-06-26 05:00:00,publishing,fiction,Ilse,Bray,ilse.bray@venturi.it
+88,"Hogan, Porter and Rivera",failed,113,US,8500.0,4613.0,2021-07-14 05:00:00,film & video,science fiction,Pierpaolo,Scaduto,pierpaolo.scaduto@sanders-gibson.com.au
+2806,Lyons LLC,successful,2756,US,68800.0,162603.0,2020-09-12 05:00:00,technology,wearables,Amedeo,Bradford,amedeo.bradford@yahoo.com
+3153,Long-Greene,successful,173,GB,2400.0,12310.0,2020-07-27 05:00:00,food,food trucks,Julia,Ali,julia.ali@yahoo.com
+2391,Robles-Hudson,successful,87,US,8600.0,8656.0,2021-08-28 05:00:00,photography,photography books,Catalina,Pizzetti,catalina.pizzetti@tim.it
+84,Mcclure LLC,failed,1538,US,196600.0,159931.0,2021-06-12 05:00:00,theater,plays,Dylan,Porzio,dylan.porzio@yahoo.de
+1987,"Martin, Russell and Baker",failed,9,US,4200.0,689.0,2021-01-21 06:00:00,publishing,fiction,Iris,Trincavelli,iris.trincavelli@tiscali.fr
+2790,Rice-Parker,failed,554,US,91400.0,48236.0,2020-06-03 05:00:00,theater,plays,Johnathan,Guidotti,johnathan.guidotti@cox-sanchez.net
+37,Landry Inc,successful,1572,GB,29600.0,77021.0,2021-06-19 05:00:00,food,food trucks,Walburga,Vollbrecht,walburga.vollbrecht@aol.de
+2981,Richards-Davis,failed,648,GB,90600.0,27844.0,2020-06-17 05:00:00,theater,plays,Kendra,David,kendra.david@allan-morton.com
+1730,"Davis, Cox and Fox",failed,21,GB,5200.0,702.0,2021-03-28 05:00:00,publishing,translations,Aleksandr,Weiss,aleksandr.weiss@blanc.org
+3172,Smith-Wallace,successful,2346,US,110300.0,197024.0,2021-02-13 06:00:00,theater,plays,Cornelio,Guardado,cornelio.guardado@gmail.com
+32,"Cordova, Shaw and Wang",successful,115,US,5300.0,11663.0,2021-01-13 06:00:00,theater,plays,Ferdi,Blackburn,ferdi.blackburn@christensen.net
+2322,Clark Inc,successful,85,IT,9200.0,9339.0,2021-06-07 05:00:00,technology,wearables,Bill,Gallagher,bill.gallagher@green.com
+1095,Young and Sons,successful,144,US,2400.0,4596.0,2020-11-28 06:00:00,journalism,audio,Leonard,Harvey,leonard.harvey@hotmail.com
+1067,Henson PLC,successful,2443,US,56800.0,173437.0,2021-07-24 05:00:00,food,food trucks,Milan,Montenegro,milan.montenegro@langern.com
+2676,Garcia Group,canceled,595,US,191000.0,45831.0,2020-11-07 06:00:00,film & video,shorts,Philip,Perez,philip.perez@hotmail.co.uk
+549,"Adams, Walker and Wong",successful,64,US,900.0,6514.0,2020-03-24 05:00:00,photography,photography books,Kathryn,Hentschel,kathryn.hentschel@shaw.com
+302,Hopkins-Browning,successful,268,US,2500.0,13684.0,2020-05-30 05:00:00,technology,wearables,Xavier,Samson,xavier.samson@baggio.it
+2758,"Bell, Edwards and Andersen",successful,195,DK,3200.0,13264.0,2020-10-30 05:00:00,theater,plays,Hartwig,Roberts,hartwig.roberts@saraceno.net
+2450,Morales Group,failed,54,US,183800.0,1667.0,2021-05-21 05:00:00,film & video,animation,Kimberly,Chan,kimberly.chan@gmail.com
+2310,Lucero Group,failed,120,US,9800.0,3349.0,2020-07-14 05:00:00,technology,wearables,Lorraine,Crawford,lorraine.crawford@gmail.com
+2185,"Smith, Brown and Davis",failed,579,DK,193400.0,46317.0,2021-12-27 06:00:00,technology,web,Maximiliano,Knowles,maximiliano.knowles@gmail.com
+1929,Hunt Group,failed,2072,US,163800.0,78743.0,2021-01-08 06:00:00,film & video,documentary,Gabriella,Avila,gabriella.avila@gmail.com
+1823,Valdez Ltd,failed,0,US,100.0,0.0,2020-06-17 05:00:00,theater,plays,Rico,Mortati,rico.mortati@faivre.fr
+699,Mccann-Le,failed,1796,US,153600.0,107743.0,2021-02-01 06:00:00,film & video,documentary,Gail,Petrocelli,gail.petrocelli@yahoo.com
+1926,Johnson Inc,successful,186,AU,1300.0,6889.0,2020-06-01 05:00:00,games,video games,Liberto,Niemeier,liberto.niemeier@germano-dibiasi.it
+2208,Collins LLC,successful,460,US,25500.0,45983.0,2021-04-14 05:00:00,film & video,drama,Luciana,Petitjean,luciana.petitjean@patterson-cole.biz
+3136,Smith-Miller,failed,62,IT,7500.0,6924.0,2021-04-08 05:00:00,music,rock,Ron,Cavazos,ron.cavazos@yahoo.com
+1623,Jensen-Vargas,failed,347,US,89900.0,12497.0,2020-08-27 05:00:00,publishing,radio & podcasts,Aldo,Cibin,aldo.cibin@gmx.de
+277,"Robles, Bell and Gonzalez",successful,2528,US,18000.0,166874.0,2021-08-10 05:00:00,theater,plays,Alexandre,Serrano,alexandre.serrano@yahoo.co.uk
+1522,"Turner, Miller and Francis",failed,19,US,2100.0,837.0,2020-12-26 06:00:00,technology,web,Lori,Fagotto,lori.fagotto@hill-anderson.com
+2582,Roberts Group,successful,3657,US,172700.0,193820.0,2021-01-06 06:00:00,theater,plays,Perla,Figueroa,perla.figueroa@live.com
+595,White LLC,failed,1258,US,168500.0,119510.0,2021-01-01 06:00:00,theater,plays,Reginald,Hughes,reginald.hughes@gmail.com
+1060,"Best, Miller and Thomas",successful,131,AU,7800.0,9289.0,2021-06-06 05:00:00,film & video,drama,Uriel,Holt,uriel.holt@gmail.com
+2551,Smith-Mullins,failed,362,US,147800.0,35498.0,2020-12-22 06:00:00,theater,plays,Stefano,Lemonnier,stefano.lemonnier@binner.com
+975,Williams-Walsh,successful,239,US,9100.0,12678.0,2020-06-26 05:00:00,games,video games,Madeleine,Cooper,madeleine.cooper@poste.it
+300,"Harrison, Blackwell and Mendez",canceled,35,US,8300.0,3260.0,2021-07-10 05:00:00,film & video,television,Alban,Barbier,alban.barbier@ortiz.org
+1883,"Sanchez, Bradley and Flores",canceled,528,CH,138700.0,31123.0,2021-01-30 06:00:00,music,rock,Alfonso,Finetti,alfonso.finetti@quiroz.com
+2973,Cox LLC,failed,133,CA,8600.0,4797.0,2020-10-27 05:00:00,theater,plays,Ryan,Kim,ryan.kim@noos.fr
+1831,Morales-Odonnell,failed,846,US,125400.0,53324.0,2020-09-03 05:00:00,publishing,nonfiction,Augustin,Wohlgemut,augustin.wohlgemut@watson.info
+3019,Ramirez LLC,successful,78,US,5900.0,6608.0,2021-04-05 05:00:00,food,food trucks,Rolando,Bibi,rolando.bibi@tin.it
+1598,Ramirez Group,failed,10,US,8800.0,622.0,2020-12-12 06:00:00,film & video,animation,Berthold,Randall,berthold.randall@mcdonald.com
+1898,Marsh-Coleman,successful,1773,US,177700.0,180802.0,2020-09-25 05:00:00,music,rock,Genaro,Briand,genaro.briand@sfr.fr
+944,"Frederick, Jenkins and Collins",successful,32,US,800.0,3406.0,2020-08-13 05:00:00,theater,plays,Rudolf,Jenkins,rudolf.jenkins@hotmail.com
+2775,Wilson Ltd,successful,369,US,7600.0,11061.0,2021-04-01 05:00:00,film & video,drama,Pauline,Ackermann,pauline.ackermann@arredondo-roque.com
+2021,"Cline, Peterson and Lowery",failed,191,US,50500.0,16389.0,2021-03-12 06:00:00,film & video,shorts,Folker,Swanson,folker.swanson@rodrigues.fr
+1473,"Underwood, James and Jones",successful,89,US,900.0,6303.0,2020-08-02 05:00:00,film & video,shorts,Ashleigh,Montez,ashleigh.montez@perry-schneider.com
+353,Johnson-Contreras,failed,1979,US,96700.0,81136.0,2020-06-15 05:00:00,theater,plays,Liliana,Barber,liliana.barber@libero.it
+400,"Greene, Lloyd and Sims",failed,63,US,2100.0,1768.0,2021-05-01 05:00:00,technology,wearables,Caridad,Carr,caridad.carr@huhn.com
+930,Smith-Sparks,successful,147,US,8300.0,12944.0,2021-09-20 05:00:00,theater,plays,Lolita,Borrego,lolita.borrego@gmail.com
+1281,Rosario-Smith,failed,6080,CA,189200.0,188480.0,2021-05-16 05:00:00,film & video,animation,Gunar,Patrick,gunar.patrick@leroy.com
+726,"Avila, Ford and Welch",failed,80,GB,9000.0,7227.0,2020-05-24 05:00:00,music,indie rock,Leokadia,Verdier,leokadia.verdier@hotmail.com.au
+2177,Gallegos Inc,failed,9,US,5100.0,574.0,2020-04-29 05:00:00,games,video games,Hanna,Reid,hanna.reid@salas.org
+1652,"Morrow, Santiago and Soto",failed,1784,US,105000.0,96328.0,2021-05-05 05:00:00,publishing,fiction,Edelgard,Kreusel,edelgard.kreusel@hotmail.com
+65,Berry-Richardson,live,3640,CH,186700.0,178338.0,2020-05-28 05:00:00,games,video games,Svenja,Perrin,svenja.perrin@berger.com
+911,Cordova-Torres,successful,126,CA,1600.0,8046.0,2021-01-25 06:00:00,theater,plays,Pierluigi,Taccola,pierluigi.taccola@gmx.de
+2082,"Holt, Bernard and Johnson",successful,2218,GB,115600.0,184086.0,2021-01-04 06:00:00,music,indie rock,Cilli,Watts,cilli.watts@yahoo.com
+458,"Clark, Mccormick and Mendoza",failed,243,US,89100.0,13385.0,2021-05-23 05:00:00,film & video,drama,Emiliano,Wells,emiliano.wells@gmx.de
+1085,Garrison LLC,successful,202,IT,2600.0,12533.0,2021-01-28 06:00:00,theater,plays,April,Davids,april.davids@fisher.info
+1451,Shannon-Olson,successful,140,IT,9800.0,14697.0,2020-10-14 05:00:00,publishing,fiction,Dolores,Didier,dolores.didier@yahoo.com.au
+1068,Murillo-Mcfarland,successful,1052,DK,84400.0,98935.0,2020-10-10 05:00:00,film & video,documentary,Sylvia,Bonomo,sylvia.bonomo@poulain.com
+241,"Young, Gilbert and Escobar",failed,1296,US,151300.0,57034.0,2020-10-11 05:00:00,games,mobile games,Nelly,Marsh,nelly.marsh@hotmail.it
+2654,"Thomas, Welch and Santana",failed,77,US,9800.0,7120.0,2021-01-13 06:00:00,food,food trucks,Beth,Miniati,beth.miniati@hudson.net
+159,Brown-Pena,successful,247,US,5300.0,14097.0,2020-03-08 06:00:00,photography,photography books,Renee,Merino,renee.merino@gmail.com
+1010,"Holder, Caldwell and Vance",failed,395,IT,178000.0,43086.0,2020-09-17 05:00:00,games,mobile games,Hailey,Russell,hailey.russell@jourdan.org
+1807,Harrison-Bridges,failed,49,GB,77000.0,1930.0,2021-03-04 06:00:00,music,indie rock,Raphaela,Gotthard,raphaela.gotthard@outlook.com
+1135,"Johnson, Murphy and Peterson",failed,180,US,84900.0,13864.0,2021-01-28 06:00:00,games,video games,Pomponio,Comencini,pomponio.comencini@hotmail.co.uk
+1859,Taylor Inc,successful,84,US,2800.0,7742.0,2020-08-02 05:00:00,music,rock,Leone,Richardson,leone.richardson@yahoo.com
+1265,Deleon and Sons,failed,2690,US,184800.0,164109.0,2021-01-11 06:00:00,theater,plays,Valentine,Acosta,valentine.acosta@peters.net
+2648,"Benjamin, Paul and Ferguson",successful,88,US,4200.0,6870.0,2020-12-17 06:00:00,theater,plays,Ricciotti,Laureano,ricciotti.laureano@parsons.com
+141,Hardin-Dixon,successful,156,US,1300.0,12597.0,2021-06-20 05:00:00,film & video,drama,Jacques,Heidrich,jacques.heidrich@zamudio-chapa.com
+1944,York-Pitts,successful,2985,US,66100.0,179074.0,2021-10-19 05:00:00,theater,plays,Anne,Snow,anne.snow@gmail.com
+3187,Jarvis and Sons,successful,762,US,29500.0,83843.0,2021-05-21 05:00:00,technology,wearables,Sonia,Volta,sonia.volta@gmx.de
+1436,Morrison-Henderson,canceled,1,CH,100.0,4.0,2021-06-18 05:00:00,music,indie rock,Dale,Leblanc,dale.leblanc@stewart.com
+1384,Martin-James,failed,2779,AU,180100.0,105598.0,2021-01-11 06:00:00,technology,web,Alejandro,Cruz,alejandro.cruz@hotmail.com
+2446,"Mercer, Solomon and Singleton",failed,92,US,9000.0,8866.0,2020-12-04 06:00:00,theater,plays,Elsa,Cugia,elsa.cugia@yahoo.com
+2215,"Dougherty, Austin and Mills",failed,1028,US,170600.0,75022.0,2020-12-11 06:00:00,music,rock,Geronimo,Pechel,geronimo.pechel@hotmail.com
+2704,Ritter PLC,successful,554,CA,9500.0,14408.0,2020-12-25 06:00:00,music,indie rock,Melania,Klemm,melania.klemm@seidel.com
+2470,Anderson Group,successful,135,DK,6300.0,14089.0,2020-05-09 05:00:00,music,rock,Katherine,Cooley,katherine.cooley@yahoo.com
+1056,Smith and Sons,successful,122,US,5200.0,12467.0,2020-04-01 05:00:00,publishing,translations,Guillermo,Larsen,guillermo.larsen@yahoo.com
+1278,Lam-Hamilton,successful,221,US,6000.0,11960.0,2021-06-14 05:00:00,film & video,science fiction,Jill,Barrios,jill.barrios@gmail.com
+2987,Ho Ltd,successful,126,US,5800.0,7966.0,2020-08-03 05:00:00,theater,plays,Austin,Musatti,austin.musatti@tin.it
+417,"Brown, Estrada and Jensen",successful,1022,US,105300.0,106321.0,2020-09-19 05:00:00,theater,plays,Jacinto,Rose,jacinto.rose@yahoo.com
+670,Hunt LLC,successful,3177,US,20000.0,158832.0,2021-06-21 05:00:00,film & video,animation,Lucie,Redi,lucie.redi@googlemail.com
+1427,Fowler-Smith,successful,198,CH,3000.0,11091.0,2021-03-03 06:00:00,theater,plays,Tania,Chapman,tania.chapman@remy.com
+2918,Blair Inc,failed,26,CH,9900.0,1269.0,2021-02-05 06:00:00,music,rock,Alexandria,Best,alexandria.best@yahoo.co.uk
+306,"Kelley, Stanton and Sanchez",successful,85,AU,3700.0,5107.0,2021-03-29 05:00:00,film & video,documentary,Edward,Scott,edward.scott@yahoo.com
+1714,Hernandez-Macdonald,failed,1790,US,168700.0,141393.0,2020-04-27 05:00:00,theater,plays,Jake,Wiley,jake.wiley@outlook.com
+1354,Joseph LLC,successful,3596,US,94900.0,194166.0,2021-01-20 06:00:00,theater,plays,Claudio,Reuter,claudio.reuter@morgan-collins.org.au
+810,Webb-Smith,failed,37,US,9300.0,4124.0,2021-09-04 05:00:00,music,electric music,Laure,Traetta,laure.traetta@kay-perkins.co.uk
+304,Johns PLC,successful,244,US,6800.0,14865.0,2020-11-01 05:00:00,music,rock,Magarete,Valentin,magarete.valentin@yahoo.com
+752,Hardin-Foley,successful,5180,US,72400.0,134688.0,2020-06-21 05:00:00,theater,plays,Paige,Hill,paige.hill@jones.org.au
+2254,"Fischer, Fowler and Arnold",successful,589,IT,20100.0,47705.0,2021-06-08 05:00:00,film & video,animation,Fulvio,Curiel,fulvio.curiel@reynolds.com
+1654,Martinez-Juarez,successful,2725,US,31200.0,95364.0,2021-06-07 05:00:00,music,rock,Thibaut,Camarillo,thibaut.camarillo@hotmail.com
+2729,Wilson and Sons,failed,35,IT,3500.0,3295.0,2021-05-16 05:00:00,film & video,shorts,Romana,Blanchard,romana.blanchard@googlemail.com
+913,Clements Group,canceled,94,US,9000.0,4896.0,2021-02-10 06:00:00,music,rock,Thibault,Savorgnan,thibault.savorgnan@butler.biz
+1388,Valenzuela-Cook,successful,300,US,6700.0,7496.0,2021-01-04 06:00:00,journalism,audio,Alexander,Pausini,alexander.pausini@gonzalez.info
+76,"Parker, Haley and Foster",successful,144,US,2700.0,9967.0,2020-06-25 05:00:00,food,food trucks,Pierangelo,Scholtz,pierangelo.scholtz@lefevre.com
+1172,Fuentes LLC,failed,558,US,83300.0,52421.0,2021-04-09 05:00:00,theater,plays,Emmanuelle,Keller,emmanuelle.keller@morton-clarke.com
+2579,Moran and Sons,failed,64,US,9700.0,6298.0,2021-05-10 05:00:00,theater,plays,Isabella,Deleon,isabella.deleon@web.de
+2371,Stevens Inc,canceled,37,US,8200.0,1546.0,2021-10-08 05:00:00,music,jazz,Timothy,Weitzel,timothy.weitzel@gmail.com
+359,Martinez-Johnson,failed,245,US,96500.0,16168.0,2021-04-29 05:00:00,film & video,science fiction,Alfredo,Ingram,alfredo.ingram@hotmail.com
+1423,Franklin Inc,successful,87,US,6200.0,6269.0,2020-05-01 05:00:00,music,jazz,Francesca,Kade,francesca.kade@luna-rael.org
+2239,Perez PLC,successful,3116,US,43800.0,149578.0,2020-06-28 05:00:00,theater,plays,Tonia,Coleman,tonia.coleman@hotmail.com
+1835,"Sanchez, Cross and Savage",failed,71,US,6000.0,3841.0,2021-02-15 06:00:00,technology,web,Gottfried,Barbe,gottfried.barbe@hotmail.com
+2097,Pineda Ltd,failed,42,US,8700.0,4531.0,2020-08-11 05:00:00,games,video games,Jeffrey,Trommler,jeffrey.trommler@yahoo.com
+1165,Powell and Sons,successful,909,US,18900.0,60934.0,2020-10-17 05:00:00,film & video,documentary,Giacobbe,Owens,giacobbe.owens@huet.fr
+1368,Nunez-Richards,successful,1613,US,86400.0,103255.0,2020-10-12 05:00:00,technology,web,Conchita,Pagliaro,conchita.pagliaro@googlemail.com
+2331,Pugh LLC,successful,136,US,8900.0,13065.0,2020-08-15 05:00:00,publishing,translations,Kevin,Delahaye,kevin.delahaye@ellis-wilson.com
+3145,Rowe-Wong,successful,130,US,700.0,6654.0,2021-07-16 05:00:00,music,rock,Rouven,Ovadia,rouven.ovadia@gmail.com
+2313,Williams-Santos,failed,156,CA,9400.0,6852.0,2021-01-15 06:00:00,food,food trucks,Piermaria,Laporte,piermaria.laporte@wesack.com
+251,Weber Inc,failed,1368,GB,157600.0,124517.0,2021-01-13 06:00:00,theater,plays,Karolin,Johann,karolin.johann@hotmail.com
+1956,"Avery, Brown and Parker",failed,102,US,7900.0,5113.0,2020-08-11 05:00:00,film & video,documentary,Steven,Folliero,steven.folliero@noos.fr
+1575,Cox Group,failed,86,AU,7100.0,5824.0,2021-01-20 06:00:00,publishing,radio & podcasts,Livio,Rosselli,livio.rosselli@green.co.uk
+1917,Jensen LLC,successful,102,US,600.0,6226.0,2020-10-27 05:00:00,games,video games,Gaetano,Leonardi,gaetano.leonardi@despacho.com
+2447,Brown Inc,failed,253,US,156800.0,20243.0,2021-09-19 05:00:00,theater,plays,Cynthia,Robinson,cynthia.robinson@gilles.net
+1813,Hale-Hayes,successful,4006,US,121600.0,188288.0,2021-01-05 06:00:00,film & video,animation,Eleni,Aponte,eleni.aponte@club-internet.fr
+367,Mcbride PLC,failed,157,US,157300.0,11167.0,2020-10-18 05:00:00,theater,plays,Noelia,Romo,noelia.romo@yahoo.com
+1803,Harris-Jennings,successful,1629,US,70300.0,146595.0,2021-05-01 05:00:00,theater,plays,Evelyn,Haynes,evelyn.haynes@clark.info
+284,Becker-Scott,failed,183,US,7900.0,7875.0,2021-12-23 06:00:00,film & video,drama,Katharine,Zaccagnini,katharine.zaccagnini@hotmail.com
+2603,"Todd, Freeman and Henry",successful,2188,US,73800.0,148779.0,2020-10-17 05:00:00,theater,plays,Lea,Merle,lea.merle@stey.de
+653,"Martinez, Garza and Young",successful,2409,IT,108500.0,175868.0,2021-01-06 06:00:00,music,rock,Marta,Huynh,marta.huynh@hernandez.info
+1131,Smith-Ramos,failed,82,DK,140300.0,5112.0,2020-09-20 05:00:00,film & video,documentary,Amador,Riley,amador.riley@hotmail.com
+349,Brown-George,failed,1,GB,100.0,5.0,2021-04-20 05:00:00,food,food trucks,Julie,Coles,julie.coles@hotmail.fr
+2509,Waters and Sons,successful,194,US,6300.0,13018.0,2021-08-12 05:00:00,technology,wearables,Beverley,Telesio,beverley.telesio@regnier.fr
+3139,Brown Ltd,successful,1140,US,71100.0,91176.0,2020-11-08 06:00:00,theater,plays,Corinne,Mitschke,corinne.mitschke@hauffer.net
+480,"Christian, Yates and Greer",successful,102,US,5300.0,6342.0,2021-02-16 06:00:00,theater,plays,Valerie,Ortega,valerie.ortega@tele2.it
+1205,"Cole, Hernandez and Rodriguez",successful,2857,US,88700.0,151438.0,2021-03-27 05:00:00,theater,plays,Carlos,Delle,carlos.delle@hicks.com
+291,"Ortiz, Valenzuela and Collins",successful,107,US,3300.0,6178.0,2021-01-04 06:00:00,publishing,nonfiction,Christina,Besnard,christina.besnard@delorme.com
+1758,Valencia PLC,successful,160,GB,3400.0,6405.0,2021-05-13 05:00:00,music,rock,Rosario,Jacques,rosario.jacques@yahoo.com
+766,"Gordon, Mendez and Johnson",successful,2230,US,137600.0,180667.0,2020-08-29 05:00:00,food,food trucks,Celal,Fischer,celal.fischer@aol.de
+569,Johnson Group,successful,316,US,3900.0,11075.0,2021-02-28 06:00:00,music,jazz,Leonardo,Guzman,leonardo.guzman@andreozzi-abba.com
+50,Rose-Fuller,successful,117,US,10000.0,12042.0,2021-09-28 05:00:00,film & video,science fiction,Clinton,Mason,clinton.mason@yahoo.com
+1875,"Hughes, Mendez and Patterson",successful,6406,US,42800.0,179356.0,2021-09-30 05:00:00,theater,plays,Loretta,Mallet,loretta.mallet@sansoni-toscani.it
+3040,"Brady, Cortez and Rodriguez",canceled,15,US,8200.0,1136.0,2021-03-05 06:00:00,theater,plays,Lorenzo,Roero,lorenzo.roero@hotmail.co.uk
+179,"Wang, Nguyen and Horton",successful,192,US,6200.0,8645.0,2021-09-10 05:00:00,music,electric music,Lando,Gutierrez,lando.gutierrez@heser.com
+114,"Santos, Williams and Brown",successful,26,CA,1100.0,1914.0,2020-08-21 05:00:00,theater,plays,Elaine,Patterson,elaine.patterson@rose-morris.org
+260,Barnett and Sons,successful,723,US,26500.0,41205.0,2021-04-06 05:00:00,theater,plays,Marcella,Govoni,marcella.govoni@barkholz.net
+1810,Petersen-Rodriguez,successful,170,IT,8500.0,14488.0,2021-06-28 05:00:00,theater,plays,Ettore,Amaldi,ettore.amaldi@germain.com
+68,Burnett-Mora,successful,238,GB,6400.0,12129.0,2020-09-06 05:00:00,music,indie rock,Rufino,Gallegos,rufino.gallegos@webster-newton.co.uk
+1148,King LLC,successful,55,US,1400.0,3496.0,2021-01-18 06:00:00,theater,plays,Georges,Richards,georges.richards@macdonald.com
+2489,Miller Ltd,failed,1198,US,198600.0,97037.0,2020-11-10 06:00:00,publishing,nonfiction,Janice,Infantino,janice.infantino@hotmail.com
+1586,Case LLC,failed,648,US,195900.0,55757.0,2020-02-28 06:00:00,theater,plays,Svetlana,Montanariello,svetlana.montanariello@putz.de
+2339,"Swanson, Wilson and Baker",successful,128,AU,4300.0,11525.0,2021-02-25 06:00:00,photography,photography books,Agnolo,Cedillo,agnolo.cedillo@laboratorios.biz
+1687,"Dean, Fox and Phillips",successful,2144,US,25600.0,158669.0,2021-12-03 06:00:00,theater,plays,Hannah,Jockel,hannah.jockel@ceravolo-tonisto.eu
+1260,Smith-Smith,failed,64,US,189000.0,5916.0,2021-03-10 06:00:00,music,indie rock,Yvonne,Stout,yvonne.stout@sims.edu
+2240,"Smith, Scott and Rodriguez",successful,2693,GB,94300.0,150806.0,2020-04-24 05:00:00,theater,plays,Anouk,Pace,anouk.pace@gmail.com
+1762,"White, Robertson and Roberts",successful,432,US,5100.0,14249.0,2020-05-09 05:00:00,photography,photography books,Esteban,Valdez,esteban.valdez@hotmail.com
+331,Martinez Inc,failed,62,US,7500.0,5803.0,2020-07-05 05:00:00,theater,plays,Angelina,Davies,angelina.davies@hotmail.com
+1330,"Tucker, Mccoy and Marquez",successful,189,US,6400.0,13205.0,2020-11-03 06:00:00,theater,plays,Anastasie,Cadena,anastasie.cadena@live.com
+427,"Martin, Lee and Armstrong",successful,154,GB,1600.0,11108.0,2020-11-18 06:00:00,food,food trucks,Hansjoachim,Lettiere,hansjoachim.lettiere@hall-mcdaniel.net
+2929,"Dunn, Moreno and Green",successful,96,US,1900.0,2884.0,2021-02-23 06:00:00,music,indie rock,Yeni,Tejada,yeni.tejada@olson.edu.au
+2940,"Jackson, Martinez and Ray",failed,750,US,85900.0,55476.0,2021-04-05 05:00:00,theater,plays,Dulce,Adinolfi,dulce.adinolfi@hotmail.com
+2047,Patterson-Johnson,canceled,87,US,9500.0,5973.0,2021-08-30 05:00:00,theater,plays,Sean,Mielcarek,sean.mielcarek@gmail.com
+536,Carlson-Hernandez,successful,3063,US,59200.0,183756.0,2021-08-21 05:00:00,theater,plays,Omar,Fonseca,omar.fonseca@grupo.org
+238,Parker PLC,live,278,US,72100.0,30902.0,2021-01-05 06:00:00,theater,plays,Henry,Gucci,henry.gucci@leleu.fr
+30,Yu and Sons,failed,105,US,6700.0,5569.0,2021-09-28 05:00:00,film & video,animation,Samira,Bottaro,samira.bottaro@vasseur.fr
+1151,"Taylor, Johnson and Hernandez",canceled,1658,US,118200.0,92824.0,2021-08-29 05:00:00,film & video,television,Korinna,Arnold,korinna.arnold@zapata-saenz.biz
+1484,Mack Ltd,successful,2266,US,139000.0,158590.0,2021-01-14 06:00:00,film & video,television,Marcela,Ferrante,marcela.ferrante@gmx.de
+1941,Lamb-Sanders,failed,2604,DK,197700.0,127591.0,2021-04-30 05:00:00,film & video,animation,Douglas,Amaya,douglas.amaya@favata-brenna.net
+546,Williams-Ramirez,failed,65,US,8500.0,6750.0,2021-01-14 06:00:00,theater,plays,Katherina,Barrientos,katherina.barrientos@trobbiani.eu
+221,Weaver Ltd,failed,94,US,81600.0,9318.0,2020-04-12 05:00:00,theater,plays,Brittany,Tran,brittany.tran@tele2.it
+2882,Barnes-Williams,live,45,US,8600.0,4832.0,2021-03-02 06:00:00,film & video,drama,Caroline,Reeves,caroline.reeves@yahoo.com
+2938,"Richardson, Woodward and Hansen",failed,257,US,119800.0,19769.0,2020-11-08 06:00:00,theater,plays,Joe,Michaud,joe.michaud@yahoo.fr
+785,"Hunt, Barker and Baker",successful,194,CH,9400.0,11277.0,2021-05-08 05:00:00,theater,plays,Marco,Vittadello,marco.vittadello@gmail.com
+2785,"Ramos, Moreno and Lewis",successful,129,CA,9200.0,13382.0,2021-02-13 06:00:00,technology,wearables,Kim,Webb,kim.webb@yahoo.com.au
+876,Harris Inc,successful,375,US,14900.0,32986.0,2020-06-05 05:00:00,theater,plays,Eugenia,Zichichi,eugenia.zichichi@yahoo.com
+932,Peters-Nelson,failed,2928,CA,169400.0,81984.0,2021-03-15 05:00:00,theater,plays,Aurore,Rosemann,aurore.rosemann@leoncavallo-rusticucci.com
+507,"Ferguson, Murphy and Bright",failed,4697,US,192100.0,178483.0,2021-04-25 05:00:00,music,rock,Giustino,Luzi,giustino.luzi@rolland.fr
+1672,Robinson Group,failed,2915,US,98700.0,87448.0,2021-01-25 06:00:00,games,video games,Anita,Galindo,anita.galindo@gmail.com
+917,Jordan-Wolfe,failed,18,US,4500.0,1863.0,2021-04-10 05:00:00,publishing,translations,Gunhild,Carrillo,gunhild.carrillo@elliott-gilbert.org
+2931,Vargas-Cox,canceled,723,US,98600.0,62174.0,2021-05-06 05:00:00,food,food trucks,Rosa,Paul,rosa.paul@bien.com
+2415,Yang and Sons,failed,602,CH,121700.0,59003.0,2021-04-29 05:00:00,theater,plays,Marliese,Oneal,marliese.oneal@gmail.com
+1805,"Wilson, Wilson and Mathis",failed,1,US,100.0,2.0,2021-06-11 05:00:00,music,jazz,Bethany,Hartmann,bethany.hartmann@yahoo.com
+495,"Wang, Koch and Weaver",failed,3868,IT,196700.0,174039.0,2021-08-01 05:00:00,film & video,shorts,Irina,Martineau,irina.martineau@gmail.com
+2988,Cisneros Ltd,successful,409,US,10000.0,12684.0,2020-10-17 05:00:00,technology,web,Beatriz,Moulin,beatriz.moulin@pinto.com
+3169,Williams-Jones,successful,234,US,600.0,14033.0,2020-05-06 05:00:00,technology,web,Lucas,Austin,lucas.austin@gmail.com
+467,"Roberts, Hinton and Williams",successful,3016,US,35000.0,177936.0,2020-07-04 05:00:00,music,metal,Carole,Nohlmans,carole.nohlmans@yahoo.com
+1551,"Gonzalez, Williams and Benson",successful,264,US,6900.0,13212.0,2020-07-30 05:00:00,photography,photography books,Bozena,Schmitt,bozena.schmitt@vallet.com
+2467,"Hobbs, Brown and Lee",failed,504,AU,118400.0,49879.0,2021-02-07 06:00:00,food,food trucks,Aimee,Foconi,aimee.foconi@outlook.com
+1193,"Russo, Kim and Mccoy",failed,14,US,10000.0,824.0,2020-11-17 06:00:00,film & video,science fiction,Marzena,Carrero,marzena.carrero@roskoth.de
+1016,"Howell, Myers and Olson",canceled,390,US,52600.0,31594.0,2021-04-24 05:00:00,music,rock,Raisa,Poulain,raisa.poulain@fastwebnet.it
+313,Bailey and Sons,failed,750,GB,120700.0,57010.0,2021-06-19 05:00:00,film & video,documentary,Marcantonio,Bennett,marcantonio.bennett@hopkins.com.au
+117,Jensen-Brown,failed,77,US,9100.0,7438.0,2021-04-01 05:00:00,theater,plays,Kenneth,Hurst,kenneth.hurst@meunier.net
+2747,Smith Group,failed,752,DK,106800.0,57872.0,2021-08-27 05:00:00,music,jazz,Marisela,Mende,marisela.mende@godoy-enriquez.com
+1244,Murphy-Farrell,failed,131,US,9100.0,8906.0,2021-01-23 06:00:00,theater,plays,Blanka,Villareal,blanka.villareal@monduzzi.net
+564,Everett-Wolfe,failed,87,US,10000.0,7724.0,2020-12-09 06:00:00,theater,plays,Tomislav,Stoppani,tomislav.stoppani@corporacin.org
+3129,Young PLC,failed,1063,US,79400.0,26571.0,2020-05-20 05:00:00,music,jazz,Krystal,Ammaniti,krystal.ammaniti@barbier.fr
+800,Park-Goodman,successful,272,US,5100.0,12219.0,2020-10-29 05:00:00,film & video,documentary,Deanna,Aporti,deanna.aporti@bouygtel.fr
+1255,"York, Barr and Grant",canceled,25,US,3100.0,1985.0,2020-12-21 06:00:00,theater,plays,Donatella,Burns,donatella.burns@yahoo.de
+2448,Little Ltd,successful,419,US,6900.0,12155.0,2021-01-25 06:00:00,journalism,audio,Margrit,Hooper,margrit.hooper@douglas.com
+578,Brown and Sons,failed,76,US,27500.0,5593.0,2021-06-08 05:00:00,theater,plays,Baccio,Marcacci,baccio.marcacci@laposte.net
+418,"Payne, Garrett and Thomas",successful,1621,IT,48800.0,175020.0,2020-12-21 06:00:00,theater,plays,Alfio,Roman,alfio.roman@hotmail.co.uk
+255,Robinson Group,successful,1101,US,16200.0,75955.0,2020-07-03 05:00:00,music,indie rock,Soledad,Soto,soledad.soto@hotmail.de
+1918,Robinson-Kelly,successful,1073,US,97600.0,119127.0,2020-08-29 05:00:00,theater,plays,Josh,Cimarosa,josh.cimarosa@hotmail.com
+2837,Kelly-Colon,failed,4428,AU,197900.0,110689.0,2021-09-18 05:00:00,theater,plays,Nath,Rico,nath.rico@yahoo.com
+842,"Turner, Scott and Gentry",failed,58,IT,5600.0,2445.0,2021-03-31 05:00:00,music,indie rock,Gary,Armani,gary.armani@web.de
+503,Sanchez Ltd,canceled,1218,US,170700.0,57250.0,2021-05-14 05:00:00,photography,photography books,Miriam,Oquendo,miriam.oquendo@smith-watson.biz
+602,Giles-Smith,successful,331,US,9700.0,11929.0,2022-02-01 06:00:00,journalism,audio,Monica,Mohaupt,monica.mohaupt@live.com
+1317,Thompson-Moreno,successful,1170,US,62300.0,118214.0,2021-03-10 06:00:00,photography,photography books,Alec,Ho,alec.ho@parra-esparza.com
+2071,Murphy-Fox,failed,111,US,5300.0,4432.0,2021-06-08 05:00:00,publishing,fiction,Harry,Fouquet,harry.fouquet@ibarra-cooper.com
+2773,Rodriguez-Patterson,canceled,215,US,99500.0,17879.0,2021-02-27 06:00:00,film & video,drama,Arcelia,Babati,arcelia.babati@orange.fr
+1814,Davis Ltd,successful,363,US,1400.0,14511.0,2020-10-11 05:00:00,food,food trucks,Trinidad,Vespa,trinidad.vespa@gmail.com
+2600,Nelson-Valdez,failed,2955,US,145600.0,141822.0,2020-02-14 06:00:00,games,mobile games,Colette,Ryan,colette.ryan@hotmail.com
+426,Kelly PLC,failed,1657,US,184100.0,159037.0,2021-03-11 06:00:00,theater,plays,Richard,Andre,richard.andre@porras.org
+2206,Nguyen and Sons,successful,103,US,5400.0,8109.0,2020-09-13 05:00:00,theater,plays,Ellinor,Leclercq,ellinor.leclercq@gmail.com
+2032,Jones PLC,successful,147,US,2300.0,8244.0,2021-01-30 06:00:00,theater,plays,Patricio,Guillon,patricio.guillon@web.de
+397,Gilmore LLC,successful,110,CA,1400.0,7600.0,2020-12-09 06:00:00,publishing,nonfiction,Kirsten,Chindamo,kirsten.chindamo@carrillo-wall.com
+865,Lee-Cobb,failed,926,CA,140000.0,94501.0,2021-04-14 05:00:00,theater,plays,Leo,Petruzzi,leo.petruzzi@yahoo.com
+3027,"Jones, Wiley and Robbins",successful,134,US,7500.0,14381.0,2020-11-01 05:00:00,technology,wearables,Margot,Tomaselli,margot.tomaselli@junck.org
+31,"Martin, Gates and Holt",successful,269,US,1500.0,13980.0,2021-01-11 06:00:00,theater,plays,Ansaldo,Marks,ansaldo.marks@patel-odonnell.com
+1234,"Bowen, Davies and Burns",successful,175,US,2900.0,12449.0,2021-01-18 06:00:00,film & video,television,Regina,Morin,regina.morin@barcaccia.net
+497,Nguyen Inc,successful,69,US,7300.0,7348.0,2020-09-11 05:00:00,technology,web,Karla,Medici,karla.medici@yahoo.com
+2084,Walsh-Watts,successful,190,US,3600.0,8158.0,2021-10-05 05:00:00,film & video,documentary,Morgan,Irizarry,morgan.irizarry@williams-harris.biz
+337,"Ray, Li and Li",successful,237,US,5000.0,7119.0,2021-02-04 06:00:00,film & video,documentary,Natividad,Wong,natividad.wong@hoevel.com
+3182,Murray Ltd,failed,77,GB,6000.0,5438.0,2020-11-19 06:00:00,music,rock,Anna,Freeman,anna.freeman@snyder.net
+1494,Bradford-Silva,failed,1748,US,180400.0,115396.0,2020-10-09 05:00:00,theater,plays,Emilia,Vivaldi,emilia.vivaldi@garnier.fr
+2570,Mora-Bradley,failed,79,US,9100.0,7656.0,2021-01-09 06:00:00,theater,plays,Gerda,Cook,gerda.cook@tin.it
+2205,"Cardenas, Thompson and Carey",successful,196,IT,9200.0,12322.0,2021-04-10 05:00:00,music,rock,Andrey,Faure,andrey.faure@frederick-mitchell.info
+314,"Lopez, Reid and Johnson",failed,889,US,164100.0,96888.0,2021-03-22 05:00:00,theater,plays,Charlotte,Duke,charlotte.duke@ochoa.org
+1659,Fox-Williams,successful,7295,US,128900.0,196960.0,2021-12-15 06:00:00,music,electric music,Cindy,Castillo,cindy.castillo@virgilio.it
+1656,"Taylor, Wood and Taylor",successful,2893,CA,42100.0,188057.0,2020-07-15 05:00:00,technology,wearables,Hiltrud,Thibault,hiltrud.thibault@barbe.com
+514,King Inc,failed,56,US,7400.0,6245.0,2020-12-23 06:00:00,film & video,drama,Kasimir,Jaime,kasimir.jaime@gmail.com
+649,"Cole, Petty and Cameron",failed,1,US,100.0,3.0,2020-08-12 05:00:00,technology,wearables,Sabine,Lachmann,sabine.lachmann@phillips.org
+1769,Mcclain LLC,successful,820,US,52000.0,91014.0,2021-01-17 06:00:00,theater,plays,Andrea,Arroyo,andrea.arroyo@yahoo.com.au
+33,Sims-Gross,failed,83,US,8700.0,4710.0,2021-03-05 06:00:00,technology,wearables,Matthew,Velasquez,matthew.velasquez@gmail.com
+195,Perez Group,successful,2038,US,63400.0,197728.0,2021-05-01 05:00:00,publishing,translations,Severino,Linares,severino.linares@angeli.com
+742,Haynes-Williams,successful,116,US,8700.0,10682.0,2020-09-05 05:00:00,film & video,animation,Swantje,Lomeli,swantje.lomeli@gmx.de
+2093,Ford LLC,failed,2025,GB,169700.0,168048.0,2021-08-01 05:00:00,publishing,nonfiction,Marcus,Espino,marcus.espino@comolli.eu
+1338,Moreno Ltd,successful,1345,AU,108400.0,138586.0,2021-04-14 05:00:00,technology,web,Allen,Gates,allen.gates@gmail.com
+52,"Moore, Cook and Wright",successful,168,US,7300.0,11579.0,2021-03-19 05:00:00,film & video,drama,Mauricio,Saunders,mauricio.saunders@hotmail.co.uk
+1651,Ortega LLC,successful,137,CH,1700.0,12020.0,2021-04-12 05:00:00,theater,plays,Gilbert,Cornejo,gilbert.cornejo@hotmail.com
+452,"Silva, Walker and Martin",successful,186,IT,9800.0,13954.0,2022-01-15 06:00:00,theater,plays,Letizia,Gulotta,letizia.gulotta@howard.biz
+1808,"Huynh, Gallegos and Mills",successful,125,US,4300.0,6358.0,2021-04-14 05:00:00,theater,plays,Etta,Gutknecht,etta.gutknecht@leconte.net
+2288,Anderson LLC,failed,14,IT,6200.0,1260.0,2020-05-20 05:00:00,theater,plays,Shelley,Perry,shelley.perry@gierschner.de
+1855,Garza-Bryant,successful,202,US,800.0,14725.0,2021-07-16 05:00:00,theater,plays,Geoffrey,Williams,geoffrey.williams@poste.it
+3035,Mays LLC,successful,103,US,6900.0,11174.0,2020-03-14 05:00:00,publishing,radio & podcasts,Cory,Stewart,cory.stewart@voila.fr
+2285,Evans-Jones,successful,1785,US,38500.0,182036.0,2021-03-15 05:00:00,music,rock,Kristy,Bartlett,kristy.bartlett@outlook.com
+1203,"Fischer, Torres and Walker",failed,656,US,118000.0,28870.0,2021-06-16 05:00:00,games,mobile games,Gianluca,Beck,gianluca.beck@green.biz
+2852,"Tapia, Kramer and Hicks",successful,157,US,2000.0,10353.0,2021-04-29 05:00:00,theater,plays,Guido,Krein,guido.krein@gmail.com
+2160,"Barnes, Wilcox and Riley",successful,555,US,5600.0,13868.0,2021-02-21 06:00:00,film & video,documentary,Leif,Monnier,leif.monnier@querini.it
+113,Reyes PLC,successful,297,US,8300.0,8317.0,2020-09-13 05:00:00,technology,wearables,Jonas,Badoer,jonas.badoer@kennedy.biz
+2609,"Pace, Simpson and Watkins",successful,123,US,6900.0,10557.0,2020-12-02 06:00:00,publishing,fiction,Devin,Ebert,devin.ebert@yahoo.fr
+2529,"Valenzuela, Davidson and Castro",canceled,38,DK,8700.0,3227.0,2021-04-14 05:00:00,theater,plays,Slobodan,Camiscione,slobodan.camiscione@hotmail.com
+1780,Dominguez-Owens,canceled,60,US,123600.0,5429.0,2021-07-16 05:00:00,music,rock,Volkmar,Gauthier,volkmar.gauthier@hotmail.com
+1840,Thomas-Simmons,successful,3036,US,48500.0,75906.0,2021-04-10 05:00:00,film & video,documentary,Jordan,Rowe,jordan.rowe@outlook.com
+2280,Beck-Knight,successful,144,AU,4900.0,13250.0,2020-11-16 06:00:00,theater,plays,Manon,Daugherty,manon.daugherty@segre.com
+3150,Mccoy Ltd,successful,121,GB,8400.0,11261.0,2020-10-22 05:00:00,theater,plays,Estela,Segovia,estela.segovia@vodafone.it
+2490,Dawson-Tyler,failed,1596,US,193200.0,97369.0,2020-12-08 06:00:00,games,mobile games,Giada,Celentano,giada.celentano@evans.net
+3081,Johns-Thomas,canceled,524,US,54300.0,48227.0,2020-11-25 06:00:00,theater,plays,Clayton,Salcedo,clayton.salcedo@hotmail.co.uk
+1954,"Quinn, Cruz and Schmidt",successful,181,US,8900.0,14685.0,2021-05-01 05:00:00,technology,web,Raven,Pinto,raven.pinto@hotmail.com
+2560,Stewart Inc,failed,10,US,4200.0,735.0,2021-01-24 06:00:00,theater,plays,Lewis,Lewis,lewis.lewis@pisano.net
+1071,Moore Group,successful,122,US,5600.0,10397.0,2021-12-09 06:00:00,film & video,drama,Rochus,Rousseau,rochus.rousseau@nguyen.com
+1649,Carson PLC,successful,1071,CA,28800.0,118847.0,2021-09-05 05:00:00,technology,wearables,Belinda,Gamez,belinda.gamez@leleu.com
+685,"Cruz, Hall and Mason",canceled,219,US,8000.0,7220.0,2021-06-06 05:00:00,technology,web,Angelo,Lozano,angelo.lozano@macias.com
+1069,"Glass, Baker and Jones",failed,1121,US,117000.0,107622.0,2021-05-24 05:00:00,music,rock,Jorge,Monti,jorge.monti@clement.fr
+1277,Marquez-Kerr,successful,980,US,15800.0,83267.0,2021-04-01 05:00:00,music,metal,Ricky,Harrell,ricky.harrell@martin.edu
+2764,Stone PLC,successful,536,US,4200.0,13404.0,2021-07-13 05:00:00,theater,plays,Adriano,Wulf,adriano.wulf@schmidtke.net
+959,Caldwell PLC,successful,1991,US,37100.0,131404.0,2020-12-17 06:00:00,photography,photography books,Pompeo,Bourdon,pompeo.bourdon@gmail.com
+1746,Silva-Hawkins,canceled,29,US,7700.0,2533.0,2020-09-21 05:00:00,publishing,nonfiction,Kristie,Garrett,kristie.garrett@wernecke.com
+2392,Gardner Inc,successful,180,US,3700.0,5028.0,2021-07-22 05:00:00,music,indie rock,Lodovico,Conley,lodovico.conley@yahoo.com
+2762,Garcia Group,failed,15,US,74700.0,1557.0,2021-03-23 05:00:00,theater,plays,Jean,Berthelot,jean.berthelot@oscuro.it
+1699,Meyer-Avila,failed,191,US,10000.0,6100.0,2020-12-02 06:00:00,music,indie rock,Tadeusz,Medina,tadeusz.medina@jackson-clark.net
+220,"Nelson, Smith and Graham",failed,16,US,5300.0,1592.0,2020-01-15 06:00:00,theater,plays,Ruby,Carriera,ruby.carriera@hotmail.it
+285,Garcia Ltd,successful,130,US,1200.0,14150.0,2020-07-12 05:00:00,theater,plays,Theres,Antonioni,theres.antonioni@hotmail.com
+2182,West-Stevens,successful,122,US,1200.0,13513.0,2021-03-30 05:00:00,music,electric music,Gloria,Morton,gloria.morton@outlook.com
+2244,Clark-Conrad,failed,17,US,3900.0,504.0,2021-07-27 05:00:00,theater,plays,Graziano,Jensen,graziano.jensen@gmail.com
+2357,Fitzgerald Group,successful,140,US,2000.0,14240.0,2020-10-12 05:00:00,theater,plays,Gianpaolo,Massey,gianpaolo.massey@bouvier.com
+971,"Hill, Mccann and Moore",failed,34,US,6900.0,2091.0,2020-07-21 05:00:00,technology,wearables,Alain,Farmer,alain.farmer@hotmail.it
+2077,Edwards LLC,successful,3388,US,55800.0,118580.0,2020-12-25 06:00:00,technology,web,Renato,Murillo,renato.murillo@club.com
+2197,Greer and Sons,successful,280,US,4900.0,11214.0,2021-02-25 06:00:00,theater,plays,Edda,Ferraris,edda.ferraris@libero.it
+1294,Martinez PLC,canceled,614,US,194900.0,68137.0,2020-07-13 05:00:00,film & video,animation,Luce,Marty,luce.marty@waehner.org
+1111,Hunter-Logan,successful,366,IT,8600.0,13527.0,2020-08-20 05:00:00,technology,wearables,Rotraud,Mitchell,rotraud.mitchell@laboratorios.com
+985,Ramos and Sons,failed,1,GB,100.0,1.0,2021-06-11 05:00:00,music,electric music,Israel,Watkins,israel.watkins@hotmail.com
+487,Lane-Barber,successful,270,US,3600.0,8363.0,2021-03-08 06:00:00,publishing,nonfiction,Nathan,Jennings,nathan.jennings@kim.com
+1496,Lowery Group,canceled,114,US,5800.0,5362.0,2020-12-24 06:00:00,theater,plays,Gavin,Proietti,gavin.proietti@gmx.de
+3054,Guerrero-Griffin,successful,137,US,4700.0,12065.0,2021-06-10 05:00:00,photography,photography books,Emma,Rios,emma.rios@yahoo.com.au
+501,"Perez, Reed and Lee",successful,3205,US,70400.0,118603.0,2020-09-01 05:00:00,theater,plays,Todd,Douglas,todd.douglas@web.de
+632,"Chen, Pollard and Clarke",successful,288,DK,4500.0,7496.0,2021-03-17 05:00:00,theater,plays,Oscar,Holsten,oscar.holsten@yahoo.com
+1253,"Serrano, Gallagher and Griffith",successful,148,US,1300.0,10037.0,2021-01-23 06:00:00,theater,plays,Ann,Peron,ann.peron@grupo.biz
+665,Callahan-Gilbert,successful,114,US,1400.0,5696.0,2020-05-20 05:00:00,film & video,drama,Senta,Grassi,senta.grassi@hotmail.com
+2505,Logan-Miranda,successful,1518,CA,29600.0,167005.0,2021-11-02 05:00:00,music,rock,Kata,Mena,kata.mena@gmail.com
+1519,Rodriguez PLC,failed,1274,US,167500.0,114615.0,2020-01-19 06:00:00,music,electric music,Gianfranco,Hethur,gianfranco.hethur@stewart-lee.com.au
+1920,Smith-Kennedy,failed,210,IT,48300.0,16592.0,2021-08-21 05:00:00,games,video games,Florentine,Saraceno,florentine.saraceno@gmail.com
+2782,Mitchell-Lee,successful,166,US,2200.0,14420.0,2021-07-03 05:00:00,music,rock,Giuliano,Bolzmann,giuliano.bolzmann@pacillo.it
+2089,Davis Ltd,successful,100,AU,3500.0,6204.0,2021-04-22 05:00:00,music,jazz,Alwine,Kostolzin,alwine.kostolzin@holloway.com
+2607,Rowland PLC,successful,235,US,5600.0,6338.0,2020-07-22 05:00:00,theater,plays,Giacinto,Briggs,giacinto.briggs@yahoo.co.uk
+2464,Shaffer-Mason,successful,148,US,1100.0,8010.0,2021-09-27 05:00:00,music,rock,Holly,Negrete,holly.negrete@hotmail.com
+335,Matthews LLC,successful,198,US,3900.0,8125.0,2020-09-05 05:00:00,music,indie rock,Mark,Trapanese,mark.trapanese@gmail.com
+1973,Montgomery-Castro,failed,248,AU,43800.0,13653.0,2021-01-26 06:00:00,film & video,science fiction,Alyssa,Brun,alyssa.brun@chittolini-spadafora.it
+1006,"Hale, Pearson and Jenkins",failed,513,US,97200.0,55372.0,2020-12-17 06:00:00,publishing,translations,Cristina,Chevalier,cristina.chevalier@proyectos.com
+2678,Ramirez-Calderon,successful,150,US,4800.0,11088.0,2020-10-01 05:00:00,theater,plays,Shannon,Lefevre,shannon.lefevre@gmail.com
+2103,Johnson-Morales,failed,3410,US,125600.0,109106.0,2021-01-26 06:00:00,games,video games,Logan,Hornich,logan.hornich@tin.it
+627,Mathis-Rodriguez,successful,216,IT,4300.0,11642.0,2021-02-17 06:00:00,theater,plays,Rosalia,Toro,rosalia.toro@free.fr
+2242,"Smith, Mack and Williams",canceled,26,US,5600.0,2769.0,2020-07-04 05:00:00,theater,plays,Reiner,Poerio,reiner.poerio@yahoo.com
+2711,Johnson-Pace,successful,5139,US,149600.0,169586.0,2021-07-10 05:00:00,music,indie rock,Valentina,Pages,valentina.pages@hotmail.de
+1210,"Meza, Kirby and Patel",successful,2353,US,53100.0,101185.0,2021-04-12 05:00:00,theater,plays,Enrico,Fabre,enrico.fabre@gmail.com
+692,Gonzalez-Snow,successful,78,IT,5000.0,6775.0,2020-12-21 06:00:00,technology,web,Sevim,Begue,sevim.begue@yahoo.com.au
+864,Murphy LLC,failed,10,US,9400.0,968.0,2021-02-21 06:00:00,music,rock,Sonja,Patberg,sonja.patberg@hotmail.com
+1349,Taylor-Rowe,failed,2201,US,110800.0,72623.0,2021-06-08 05:00:00,theater,plays,Christine,Hiller,christine.hiller@yahoo.com
+1582,Henderson Ltd,failed,676,US,93800.0,45987.0,2020-11-30 06:00:00,theater,plays,Maik,Beasley,maik.beasley@harper-brooks.biz
+2862,Moss-Guzman,successful,174,CH,1300.0,10243.0,2020-09-08 05:00:00,film & video,animation,Elliot,Santana,elliot.santana@gmx.de
+23,Webb Group,failed,831,US,108700.0,87293.0,2020-12-18 06:00:00,theater,plays,Eloy,Renzi,eloy.renzi@gmail.com
+526,Brooks-Rodriguez,successful,164,US,5100.0,5421.0,2021-02-19 06:00:00,film & video,drama,Wolf,Lutz,wolf.lutz@nichols-jackson.com.au
+2134,Thomas Ltd,canceled,56,CH,8700.0,4414.0,2021-11-15 06:00:00,theater,plays,Giuseppe,Lee,giuseppe.lee@mahe.org
+422,Williams and Sons,successful,161,US,5100.0,10981.0,2021-03-07 06:00:00,film & video,animation,Angelica,Cuellar,angelica.cuellar@zaguri-bellucci.net
+988,"Vega, Chan and Carney",successful,138,US,7400.0,10451.0,2021-04-18 05:00:00,music,rock,Bekir,Normand,bekir.normand@yahoo.de
+812,Byrd Group,successful,3308,US,88900.0,102535.0,2021-09-25 05:00:00,technology,web,Carmine,Gonzales,carmine.gonzales@schleich.net
+1589,"Peterson, Fletcher and Sanchez",successful,127,AU,6700.0,12939.0,2021-10-07 05:00:00,film & video,animation,Marianne,Hubert,marianne.hubert@hotmail.com
+2504,Smith-Brown,successful,207,IT,1500.0,10946.0,2020-12-01 06:00:00,music,jazz,Gonzalo,Montes,gonzalo.montes@hotmail.com
+1707,Vance-Glover,failed,859,CA,61200.0,60994.0,2021-02-27 06:00:00,music,rock,Shelly,Guichard,shelly.guichard@gmail.com
+3138,Joyce PLC,live,31,US,3600.0,3174.0,2020-09-25 05:00:00,film & video,animation,Tobias,Carbajal,tobias.carbajal@live.com
+120,Kennedy-Miller,failed,45,US,9000.0,3351.0,2020-03-08 06:00:00,theater,plays,Santiago,Berry,santiago.berry@aol.de
+265,White-Obrien,canceled,1113,US,185900.0,56774.0,2021-11-26 06:00:00,theater,plays,Emilio,Davenport,emilio.davenport@zamora-russo.net
+2499,"Stafford, Hess and Raymond",failed,6,US,2100.0,540.0,2021-09-23 05:00:00,food,food trucks,Maurizio,Gute,maurizio.gute@knight.info
+127,"Jordan, Schneider and Hall",failed,7,US,2000.0,680.0,2021-08-12 05:00:00,theater,plays,Nadia,Travaglio,nadia.travaglio@colletti-broggini.com
+1705,"Rodriguez, Cox and Rodriguez",successful,181,CH,1100.0,13045.0,2020-06-09 05:00:00,publishing,nonfiction,Elisa,Barkholz,elisa.barkholz@sfr.fr
+415,Welch Inc,successful,110,US,6600.0,8276.0,2021-10-06 05:00:00,music,rock,Cristal,Mazzini,cristal.mazzini@gmail.com
+3042,Vasquez Inc,failed,31,US,7100.0,1022.0,2020-12-02 06:00:00,film & video,drama,Trevor,Granados,trevor.granados@gmail.com
+2098,Freeman-Ferguson,failed,78,US,7800.0,4275.0,2021-02-10 06:00:00,games,mobile games,Matthieu,Mcdonald,matthieu.mcdonald@morrison.org
+1015,"Houston, Moore and Rogers",successful,185,US,7600.0,8332.0,2021-08-12 05:00:00,technology,web,Juliette,Preston,juliette.preston@gmail.com
+2454,Small-Fuentes,successful,121,US,3400.0,6408.0,2020-04-11 05:00:00,theater,plays,Stanislaw,Montalvo,stanislaw.montalvo@mcpherson-hughes.info
+662,Reid-Day,failed,1225,GB,84500.0,73522.0,2021-07-13 05:00:00,theater,plays,Lilia,Lollobrigida,lilia.lollobrigida@le.com
+751,Wallace LLC,failed,1,CH,100.0,1.0,2021-06-17 05:00:00,music,rock,Brigitta,Shaw,brigitta.shaw@hotmail.co.uk
+2336,Olson-Bishop,successful,106,US,2300.0,4667.0,2020-11-04 06:00:00,photography,photography books,Rebeca,Frey,rebeca.frey@gerard.fr
+1757,"Rodriguez, Anderson and Porter",successful,142,US,6200.0,12216.0,2020-09-30 05:00:00,photography,photography books,Nicolas,Palacios,nicolas.palacios@meraz.com
+2779,"Perez, Brown and Meyers",successful,233,US,6100.0,6527.0,2020-07-17 05:00:00,theater,plays,Susanna,Bonneau,susanna.bonneau@klingelhoefer.de
+1698,English-Mccullough,successful,218,US,2600.0,6987.0,2021-05-31 05:00:00,music,rock,Romina,Valentine,romina.valentine@hotmail.com
+550,Smith-Nguyen,failed,67,AU,9700.0,4932.0,2021-01-18 06:00:00,film & video,documentary,Erika,Toussaint,erika.toussaint@sfr.fr
+746,Harmon-Madden,successful,76,US,700.0,8262.0,2020-10-04 05:00:00,film & video,drama,Lothar,Laurent,lothar.laurent@garcia.com.au
+906,Walker-Taylor,successful,43,US,700.0,1848.0,2021-05-25 05:00:00,theater,plays,Chelsea,Verdugo,chelsea.verdugo@campbell.com
+3098,"Harris, Medina and Mitchell",failed,19,US,5200.0,1583.0,2021-01-02 06:00:00,food,food trucks,Ria,Venier,ria.venier@murillo-estevez.com
+1052,Williams and Sons,failed,2108,CH,140800.0,88536.0,2020-07-12 05:00:00,film & video,documentary,Carly,Summers,carly.summers@yahoo.co.uk
+1073,Ball-Fisher,successful,221,US,6400.0,12360.0,2020-08-19 05:00:00,theater,plays,Pasquale,Tomasini,pasquale.tomasini@hotmail.co.uk
+1327,"Page, Holt and Mack",failed,679,US,92500.0,71320.0,2021-08-01 05:00:00,games,video games,Stefani,Ughi,stefani.ughi@hotmail.it
+1849,Landry Group,successful,2805,CA,59700.0,134640.0,2020-12-17 06:00:00,publishing,nonfiction,Jose,Huang,jose.huang@gmx.de
+1550,Buckley Group,successful,68,US,3200.0,7661.0,2020-11-29 06:00:00,games,video games,Petros,Gaona,petros.gaona@googlemail.com
+2139,Vincent PLC,failed,36,DK,3200.0,2950.0,2021-08-13 05:00:00,music,rock,Maximilian,Siering,maximilian.siering@gaito-fornaciari.org
+2442,Watson-Douglas,successful,183,CA,9000.0,11721.0,2021-03-29 05:00:00,music,rock,Ermenegildo,Holzapfel,ermenegildo.holzapfel@aol.de
+108,"Jones, Casey and Jones",successful,133,US,2300.0,14150.0,2020-12-06 06:00:00,theater,plays,Damien,Leger,damien.leger@dixon.biz
+322,Alvarez-Bauer,successful,2489,IT,51300.0,189192.0,2020-10-25 05:00:00,publishing,nonfiction,Zeferino,Barrera,zeferino.barrera@zedillo-velazquez.com
+2060,Martinez LLC,successful,69,US,700.0,7664.0,2021-11-10 06:00:00,theater,plays,Alfred,Pohl,alfred.pohl@fechner.net
+589,Buck-Khan,failed,47,US,8900.0,4509.0,2021-02-02 06:00:00,games,video games,Marissa,Gaito,marissa.gaito@reed-campbell.edu
+198,"Valdez, Williams and Meyer",successful,279,GB,1500.0,12009.0,2021-02-13 06:00:00,music,rock,Ariana,Houston,ariana.houston@hotmail.it
+1485,Alvarez-Andrews,successful,210,US,4900.0,14273.0,2021-01-08 06:00:00,film & video,documentary,Victor,Jacobs,victor.jacobs@young.com
+2136,Stewart and Sons,successful,2100,US,54000.0,188982.0,2020-02-17 06:00:00,music,rock,Henriette,Lang,henriette.lang@mimun.it
+3200,Dyer Inc,successful,252,US,4100.0,14640.0,2021-01-01 06:00:00,music,rock,Wilfriede,Baca,wilfriede.baca@caraballo.com
+2693,"Anderson, Williams and Cox",successful,1280,US,85000.0,107516.0,2020-07-21 05:00:00,publishing,nonfiction,Lucia,Riviere,lucia.riviere@samaniego.biz
+1335,Solomon PLC,successful,157,GB,3600.0,13950.0,2020-05-31 05:00:00,film & video,shorts,Gordon,Vigorelli,gordon.vigorelli@solano.com
+1171,Miller-Hubbard,successful,194,US,2800.0,12797.0,2021-01-30 06:00:00,theater,plays,Diethard,Salgado,diethard.salgado@gmail.com
+1935,"Miranda, Martinez and Lowery",successful,82,AU,2300.0,6134.0,2020-09-30 05:00:00,film & video,drama,Sue,Corrales,sue.corrales@cardenas-serna.org
+1097,"Munoz, Cherry and Bell",failed,70,US,7100.0,4899.0,2021-02-12 06:00:00,theater,plays,Arthur,Salazar,arthur.salazar@yahoo.com.au
+1307,Baker-Higgins,failed,154,US,9600.0,4929.0,2020-12-17 06:00:00,theater,plays,Fortunata,Schneider,fortunata.schneider@tiscali.it
+1300,"Johnson, Turner and Carroll",failed,22,US,121600.0,1424.0,2021-09-29 05:00:00,theater,plays,Gretchen,Serna,gretchen.serna@pichon.org
+2587,Ward PLC,successful,4233,US,97100.0,105817.0,2020-05-05 05:00:00,photography,photography books,Egon,Caron,egon.caron@hotmail.com
+964,"Bradley, Beck and Mayo",successful,1297,DK,43200.0,136156.0,2020-10-28 05:00:00,publishing,translations,Roberta,Finzi,roberta.finzi@knight-davies.co.uk
+1093,"Levine, Martin and Hernandez",successful,165,DK,6800.0,10723.0,2021-02-01 06:00:00,publishing,translations,Editha,Savage,editha.savage@davies.co.uk
+1199,"Gallegos, Wagner and Gaines",successful,119,US,7300.0,11228.0,2021-06-15 05:00:00,theater,plays,Allan,Emanuelli,allan.emanuelli@fernandes.org
+2259,"Hodges, Smith and Kelly",failed,1758,US,86200.0,77355.0,2020-05-06 05:00:00,technology,web,Laurence,Lucero,laurence.lucero@martin.org
+1169,Macias Inc,failed,94,US,8100.0,6086.0,2020-09-02 05:00:00,music,indie rock,Istvan,Draghi,istvan.draghi@ifrance.com
+2575,Cook-Ortiz,successful,1797,US,17700.0,150960.0,2021-06-11 05:00:00,music,jazz,Luigi,Bonnet,luigi.bonnet@carriera-federico.it
+1889,Jordan-Fischer,successful,261,US,6400.0,8890.0,2021-03-23 05:00:00,theater,plays,Yuridia,Fantozzi,yuridia.fantozzi@mcdonald.com
+2267,Pierce-Ramirez,successful,157,US,7700.0,14644.0,2021-09-19 05:00:00,film & video,documentary,Eraldo,Schmiedt,eraldo.schmiedt@hotmail.de
+78,Howell and Sons,successful,3533,US,116300.0,116583.0,2021-05-10 05:00:00,theater,plays,Antoinette,Cox,antoinette.cox@bustamante.com
+55,"Garcia, Dunn and Richardson",successful,155,US,9100.0,12991.0,2020-10-11 05:00:00,technology,web,Cameron,Ocampo,cameron.ocampo@hotmail.com.au
+725,Lawson and Sons,successful,132,IT,1500.0,8447.0,2021-03-21 05:00:00,technology,wearables,Lynn,Lawson,lynn.lawson@leclercq.com
+1927,Porter-Hicks,failed,33,US,8800.0,2703.0,2021-02-22 06:00:00,photography,photography books,Natalia,Seifert,natalia.seifert@ifrance.com
+398,Rodriguez-Hansen,canceled,94,US,8800.0,8747.0,2021-09-15 05:00:00,film & video,documentary,Nuray,Anguillara,nuray.anguillara@yahoo.co.uk
+2554,Williams LLC,successful,1354,GB,69900.0,138087.0,2021-11-17 06:00:00,technology,web,Beate,Morgan,beate.morgan@gmail.com
+2293,"Cooper, Stanley and Bryant",successful,48,US,1000.0,5085.0,2021-06-07 05:00:00,technology,web,Mario,Rees,mario.rees@gmx.de
+2978,"Miller, Glenn and Adams",successful,110,US,4700.0,11174.0,2021-03-22 05:00:00,food,food trucks,Galasso,Junken,galasso.junken@yahoo.co.uk
+1443,"Cole, Salazar and Moreno",successful,172,US,3200.0,10831.0,2020-02-01 06:00:00,film & video,drama,Luca,Moses,luca.moses@franke.de
+342,Jones-Ryan,successful,307,US,6700.0,8917.0,2021-03-27 05:00:00,music,indie rock,Aurelio,Gertz,aurelio.gertz@hewitt.net
+1719,"Hood, Perez and Meadows",failed,1,US,100.0,1.0,2020-04-04 05:00:00,music,rock,Uberto,Steele,uberto.steele@outlook.com
+2004,Bright and Sons,successful,160,US,6000.0,12468.0,2021-10-23 05:00:00,music,electric music,Annie,Hunter,annie.hunter@allen.co.uk
+784,Brady Ltd,failed,31,US,4900.0,2505.0,2020-09-28 05:00:00,games,video games,Jo,Mccarty,jo.mccarty@hotmail.com
+3061,Collier LLC,successful,1467,CA,17100.0,111502.0,2020-09-09 05:00:00,music,indie rock,Eitel,Lombard,eitel.lombard@thomas.net
+559,"Campbell, Thomas and Obrien",successful,2662,CA,171000.0,194309.0,2021-07-15 05:00:00,publishing,fiction,Susan,Vigliotti,susan.vigliotti@yahoo.co.uk
+978,Moses-Terry,successful,452,AU,23400.0,23956.0,2021-04-06 05:00:00,theater,plays,Jacqueline,Germano,jacqueline.germano@valette.fr
+1387,Williams and Sons,successful,158,US,2400.0,8558.0,2021-06-29 05:00:00,food,food trucks,Fidel,Ruppert,fidel.ruppert@yahoo.co.uk
+499,"Miranda, Gray and Hale",successful,225,CH,5300.0,7413.0,2021-08-30 05:00:00,film & video,shorts,Margaret,Eigenwillig,margaret.eigenwillig@yahoo.com
+1439,"Ayala, Crawford and Taylor",failed,35,US,4000.0,2778.0,2021-02-16 06:00:00,food,food trucks,Yvette,Harding,yvette.harding@yahoo.co.uk
+3130,Martinez Ltd,failed,63,US,7300.0,2594.0,2020-10-31 05:00:00,theater,plays,Federigo,Karge,federigo.karge@bohlander.com
+1526,Lee PLC,successful,65,US,2000.0,5033.0,2021-02-02 06:00:00,technology,wearables,Guenther,Armenta,guenther.armenta@free.fr
+1229,"Young, Ramsey and Powell",successful,163,US,8800.0,9317.0,2020-12-26 06:00:00,theater,plays,Coriolano,Higgins,coriolano.higgins@murphy.org.au
+780,Lewis and Sons,successful,85,US,3500.0,6560.0,2021-05-12 05:00:00,theater,plays,Felix,Rubio,felix.rubio@ebert.de
+936,Davis-Johnson,successful,217,US,1400.0,5415.0,2020-08-22 05:00:00,film & video,television,Melanie,Leveque,melanie.leveque@fleury.net
+2820,Stevenson-Thompson,successful,150,US,4200.0,14577.0,2021-01-25 06:00:00,film & video,shorts,Abbie,Galeati,abbie.galeati@ubaldi.it
+3118,"Ellis, Smith and Armstrong",successful,3272,US,81000.0,150515.0,2021-07-01 05:00:00,theater,plays,Vittorio,Caccioppoli,vittorio.caccioppoli@yahoo.com
+750,Jackson-Brown,canceled,898,US,182800.0,79045.0,2021-06-28 05:00:00,photography,photography books,Biagio,Valenzuela,biagio.valenzuela@robinson.info
+2948,"Kane, Pruitt and Rivera",successful,300,US,4800.0,7797.0,2021-11-23 06:00:00,food,food trucks,Dario,Green,dario.green@live.com
+1818,"Wood, Buckley and Meza",successful,126,US,7000.0,12939.0,2020-09-23 05:00:00,theater,plays,Alwina,Textor,alwina.textor@poste.it
+1715,Brown-Williams,failed,526,US,161900.0,38376.0,2020-06-08 05:00:00,film & video,drama,Diether,Baeza,diether.baeza@grupo.biz
+2667,Hansen-Austin,failed,121,US,7700.0,6920.0,2020-05-11 05:00:00,theater,plays,Sole,Trevino,sole.trevino@hotmail.com
+2818,Santana-George,successful,2320,US,71500.0,194912.0,2021-03-16 05:00:00,theater,plays,Darren,Bernardi,darren.bernardi@brooks-martin.com
+175,Davis LLC,successful,81,AU,4700.0,7992.0,2021-08-22 05:00:00,film & video,science fiction,Martina,Heser,martina.heser@morellato.it
+2701,"Vazquez, Ochoa and Clark",successful,1887,US,42100.0,79268.0,2020-07-17 05:00:00,photography,photography books,Bethan,Giacometti,bethan.giacometti@gmail.com
+338,Chung-Nguyen,successful,4358,US,40200.0,139468.0,2020-03-21 05:00:00,photography,photography books,Ethan,Duhamel,ethan.duhamel@sfr.fr
+1372,Mueller-Harmon,failed,67,US,7900.0,5465.0,2020-12-25 06:00:00,music,rock,Corrado,Warren,corrado.warren@hotmail.com.au
+399,"Dixon, Perez and Banks",failed,57,CA,8300.0,2111.0,2021-12-29 06:00:00,photography,photography books,Damian,Pulido,damian.pulido@yahoo.de
+2734,Estrada Group,failed,1229,US,163600.0,126628.0,2020-11-08 06:00:00,food,food trucks,Dino,Osborne,dino.osborne@despacho.com
+2663,Lutz Group,failed,12,IT,2700.0,1012.0,2020-09-07 05:00:00,music,metal,Nicolaus,Bernetti,nicolaus.bernetti@aol.de
+2951,Ortiz Inc,successful,53,US,1000.0,5438.0,2021-02-27 06:00:00,publishing,nonfiction,Gianna,Carroll,gianna.carroll@perez.com
+733,"Craig, Ellis and Miller",successful,2414,US,84500.0,193101.0,2021-01-11 06:00:00,music,electric music,Grit,Knight,grit.knight@web.de
+374,Charles Inc,failed,452,US,81300.0,31665.0,2020-12-24 06:00:00,theater,plays,Erin,Weinhold,erin.weinhold@hotmail.fr
+1949,White-Rosario,successful,80,US,800.0,2960.0,2021-01-18 06:00:00,theater,plays,Craig,Jordan,craig.jordan@gmail.com
+48,Simmons-Villarreal,successful,193,US,3400.0,8089.0,2020-06-26 05:00:00,film & video,shorts,Homero,Respighi,homero.respighi@gmail.com
+3020,Strickland Group,failed,1886,US,170800.0,109374.0,2020-05-17 05:00:00,theater,plays,Fanny,Pertile,fanny.pertile@gmail.com
+749,Lynch Ltd,successful,52,US,1800.0,2129.0,2020-06-12 05:00:00,theater,plays,Fridolin,Comboni,fridolin.comboni@graf.com
+1336,Sanders LLC,failed,1825,US,150600.0,127745.0,2021-02-01 06:00:00,music,indie rock,Hugh,Cantu,hugh.cantu@libero.it
+2390,Cooper LLC,failed,31,US,7800.0,2289.0,2021-03-13 06:00:00,theater,plays,Alphons,Simmons,alphons.simmons@hotmail.com
+851,Palmer Ltd,successful,290,US,5800.0,12174.0,2021-10-26 05:00:00,theater,plays,Ludovico,Cafarchia,ludovico.cafarchia@gmail.com
+2394,Santos Group,successful,122,US,5600.0,9508.0,2020-12-13 06:00:00,music,electric music,Nico,Kaiser,nico.kaiser@almonte.com
+1062,"Christian, Kim and Jimenez",successful,1470,US,134400.0,155849.0,2021-07-11 05:00:00,music,indie rock,Kirsty,Lamy,kirsty.lamy@alonzi.it
+1024,"Williams, Price and Hurley",successful,165,CA,3000.0,7758.0,2020-12-13 06:00:00,film & video,documentary,Joshua,Scheibe,joshua.scheibe@turci.org
+1261,"Anderson, Parks and Estrada",successful,182,US,6000.0,13835.0,2020-11-02 06:00:00,publishing,translations,Carin,Pineau,carin.pineau@yahoo.com
+2029,Collins-Martinez,successful,199,IT,8400.0,10770.0,2020-10-04 05:00:00,film & video,documentary,Ellie,Galarza,ellie.galarza@pareto-cattaneo.net
+267,Barrett Inc,successful,56,GB,1700.0,3208.0,2020-12-05 06:00:00,film & video,television,Marion,Lira,marion.lira@ifrance.com
+3140,Adams-Rollins,failed,107,US,159800.0,11108.0,2021-03-25 05:00:00,theater,plays,Aurelia,Angiolello,aurelia.angiolello@lord.com
+2599,Wright-Bryant,successful,1460,AU,19800.0,153338.0,2020-06-20 05:00:00,food,food trucks,Maura,Ravaglioli,maura.ravaglioli@yahoo.com
+1505,Berry-Cannon,failed,27,US,8800.0,2437.0,2020-11-10 06:00:00,theater,plays,Brunhilde,Fletcher,brunhilde.fletcher@schomber.de
+2736,Davis-Gonzalez,failed,1221,US,179100.0,93991.0,2020-05-11 05:00:00,film & video,documentary,Ottfried,Marques,ottfried.marques@tyler-watson.info
+2444,Best-Young,successful,123,CH,3100.0,12620.0,2020-08-19 05:00:00,music,jazz,Christelle,Blasi,christelle.blasi@morris-chan.com
+212,"Powers, Smith and Deleon",failed,1,US,100.0,2.0,2020-09-23 05:00:00,technology,web,Augusto,Vercelloni,augusto.vercelloni@club-internet.fr
+1226,Hogan Group,successful,159,US,5600.0,8746.0,2021-05-01 05:00:00,music,rock,Michela,Pruvost,michela.pruvost@holt.co.uk
+2381,"Wang, Silva and Byrd",successful,110,US,1400.0,3534.0,2021-01-11 06:00:00,technology,web,Guarino,Escalante,guarino.escalante@hotmail.com
+2510,Parker-Morris,live,14,US,41000.0,709.0,2020-02-15 06:00:00,publishing,nonfiction,Gabriela,Padilla,gabriela.padilla@pearson-russell.com
+182,"Rodriguez, Johnson and Jackson",failed,16,US,6500.0,795.0,2020-06-16 05:00:00,publishing,radio & podcasts,Agathe,Dias,agathe.dias@jackson.com
+1340,Haynes PLC,successful,236,US,7900.0,12955.0,2020-08-29 05:00:00,theater,plays,Werner,Kallert,werner.kallert@gmail.com
+663,Hayes Group,successful,191,US,5500.0,8964.0,2020-10-11 05:00:00,film & video,documentary,Lore,Delaunay,lore.delaunay@yahoo.com
+167,"White, Pena and Calhoun",failed,41,US,9100.0,1843.0,2020-11-21 06:00:00,theater,plays,Enzio,Campos,enzio.campos@tim.it
+3143,Bryant-Pope,successful,3934,US,38200.0,121950.0,2021-02-04 06:00:00,games,video games,Walther,Duarte,walther.duarte@web.de
+1571,"Gates, Li and Thompson",successful,80,CA,1800.0,8621.0,2020-08-19 05:00:00,theater,plays,Adelgunde,Trevisan,adelgunde.trevisan@gmail.com
+1216,King-Morris,canceled,296,US,154500.0,30215.0,2020-11-27 06:00:00,theater,plays,Thierry,Schwartz,thierry.schwartz@travaglio.net
+237,"Carter, Cole and Curtis",successful,462,US,5800.0,11539.0,2020-09-08 05:00:00,technology,web,Katie,Andersen,katie.andersen@haney.com.au
+1524,Sanchez-Parsons,successful,179,US,1800.0,14310.0,2020-08-26 05:00:00,film & video,drama,Kathy,Zamorani,kathy.zamorani@hotmail.com
+218,Rivera-Pearson,failed,523,AU,70200.0,35536.0,2021-02-21 06:00:00,film & video,drama,Giuseppina,Tanguy,giuseppina.tanguy@wanadoo.fr
+2508,"Ramirez, Padilla and Barrera",failed,141,GB,6400.0,3676.0,2021-02-26 06:00:00,theater,plays,Jack,Klapp,jack.klapp@hotmail.com.au
+1873,Riggs Group,successful,1866,GB,125900.0,195936.0,2021-01-30 06:00:00,film & video,television,Tom,Leconte,tom.leconte@woods-johnson.com
+1378,Clements Ltd,failed,52,US,3700.0,1343.0,2020-07-07 05:00:00,photography,photography books,Bonnie,Cignaroli,bonnie.cignaroli@yahoo.com
+2488,Cooper Inc,live,27,GB,3600.0,2097.0,2020-11-13 06:00:00,film & video,shorts,Danny,Farrell,danny.farrell@hotmail.com
+2924,Jones-Gonzalez,successful,156,CH,3800.0,9021.0,2020-06-16 05:00:00,publishing,radio & podcasts,Fiorenzo,Bauer,fiorenzo.bauer@gmail.com
+316,Fox Ltd,failed,225,AU,35600.0,20915.0,2020-11-18 06:00:00,theater,plays,Randy,Alfieri,randy.alfieri@verri.org
+531,"Green, Murphy and Webb",successful,255,US,5300.0,9676.0,2020-09-03 05:00:00,film & video,animation,Tim,Bradley,tim.bradley@schlosser.de
+435,Stevenson PLC,failed,38,US,160400.0,1210.0,2021-02-19 06:00:00,technology,web,Yves,Mendez,yves.mendez@gmail.com
+1381,Soto-Anthony,successful,2261,US,51400.0,90440.0,2020-10-13 05:00:00,music,world music,Raffaella,Esquivel,raffaella.esquivel@gmail.com
+2606,Wise and Sons,successful,40,US,1700.0,4044.0,2020-07-15 05:00:00,theater,plays,Lawrence,Vasari,lawrence.vasari@castillo.edu
+2402,Butler-Barr,successful,2289,IT,39400.0,192292.0,2021-12-08 06:00:00,theater,plays,Sam,Adams,sam.adams@yahoo.com
+761,"Wilson, Jefferson and Anderson",successful,65,US,3000.0,6722.0,2020-12-17 06:00:00,theater,plays,Mirco,Nicolini,mirco.nicolini@blin.net
+1447,Brown-Oliver,failed,15,US,8700.0,1577.0,2021-11-23 06:00:00,food,food trucks,Graham,Bajardi,graham.bajardi@yahoo.com
+1724,Davis-Gardner,failed,37,US,7200.0,3301.0,2020-04-21 05:00:00,theater,plays,Luc,Quinn,luc.quinn@walker.com
+1050,Dawson Group,successful,3777,IT,167400.0,196386.0,2021-03-07 06:00:00,technology,web,Stella,Ullrich,stella.ullrich@hotmail.com.au
+443,Turner-Terrell,successful,184,GB,5500.0,11952.0,2020-10-14 05:00:00,theater,plays,Calcedonio,Remy,calcedonio.remy@edwards-benton.com
+974,"Hall, Buchanan and Benton",successful,85,US,3500.0,3930.0,2021-08-05 05:00:00,theater,plays,Nanni,Almaraz,nanni.almaraz@martin.com
+534,"Lowery, Hayden and Cruz",failed,112,US,7900.0,5729.0,2021-06-03 05:00:00,theater,plays,Pascual,Corradi,pascual.corradi@lopez.net.au
+289,"Mora, Miller and Harper",successful,144,US,2300.0,4883.0,2021-01-31 06:00:00,music,rock,Kristi,Grant,kristi.grant@yahoo.co.uk
+2046,Espinoza Group,successful,1902,US,73000.0,175015.0,2021-01-29 06:00:00,theater,plays,Manuel,Gracia,manuel.gracia@trussardi.eu
+2614,"Davis, Crawford and Lopez",successful,105,US,6200.0,11280.0,2020-12-26 06:00:00,theater,plays,Gionata,Hussain,gionata.hussain@yahoo.com
+2652,"Richards, Stevens and Fleming",successful,132,US,6100.0,10012.0,2021-02-11 06:00:00,theater,plays,Maria,Nguyen,maria.nguyen@hernadez.com
+1303,Brown Ltd,failed,21,US,103200.0,1690.0,2020-09-08 05:00:00,theater,plays,Leon,Baker,leon.baker@hotmail.com
+2638,"Tapia, Sandoval and Hurley",canceled,976,US,171000.0,84891.0,2021-11-08 06:00:00,film & video,documentary,Gianmarco,Alcaraz,gianmarco.alcaraz@zacchia.net
+2865,Allen Inc,successful,96,US,9200.0,10093.0,2020-07-20 05:00:00,publishing,fiction,Derrick,Little,derrick.little@small.org
+640,"Williams, Johnson and Campbell",failed,67,US,7800.0,3839.0,2020-09-14 05:00:00,games,video games,Terry,Ramirez,terry.ramirez@hotmail.co.uk
+910,Wiggins Ltd,live,66,CA,9900.0,6161.0,2021-04-27 05:00:00,technology,web,Katarina,Clarke,katarina.clarke@hotmail.com.au
+333,Luna-Horne,failed,78,US,43000.0,5615.0,2020-05-18 05:00:00,theater,plays,Leila,Washington,leila.washington@gmail.com
+1722,Allen Inc,failed,67,AU,9600.0,6205.0,2021-03-14 06:00:00,theater,plays,Mirko,Townsend,mirko.townsend@schmitt.com
+1437,"Peterson, Gonzalez and Spencer",successful,114,US,7500.0,11969.0,2020-09-16 05:00:00,food,food trucks,Randall,Connolly,randall.connolly@jovinelli-castelli.com
+806,Walter Inc,failed,263,AU,10000.0,8142.0,2020-12-20 06:00:00,photography,photography books,Pia,Burgess,pia.burgess@proyectos.org
+1563,"Sanders, Farley and Huffman",failed,1691,US,172000.0,55805.0,2021-04-08 05:00:00,photography,photography books,Justine,Mancini,justine.mancini@tiscali.it
+878,"Hall, Holmes and Walker",failed,181,US,153700.0,15238.0,2021-02-17 06:00:00,theater,plays,Reynaldo,Wagenknecht,reynaldo.wagenknecht@faure.com
+2968,Smith-Powell,failed,13,US,3600.0,961.0,2021-09-09 05:00:00,theater,plays,Toni,Magrassi,toni.magrassi@gmail.com
+1876,Smith-Hill,canceled,160,US,9400.0,5918.0,2021-05-09 05:00:00,film & video,documentary,Patrizio,Cisneros,patrizio.cisneros@martinez.edu.au
+2686,Wright LLC,successful,203,US,5900.0,9520.0,2021-02-22 06:00:00,technology,web,Durante,Lindner,durante.lindner@picard.fr
+513,"Williams, Orozco and Gomez",failed,1,US,100.0,5.0,2021-04-22 05:00:00,theater,plays,Rosl,Lamborghini,rosl.lamborghini@hiller.net
+3165,Peterson Ltd,successful,1559,US,14500.0,159056.0,2020-04-26 05:00:00,music,rock,Ugo,Harrison,ugo.harrison@morley-chapman.co.uk
+1847,Cummings-Hayes,canceled,2266,US,145500.0,101987.0,2020-07-20 05:00:00,film & video,documentary,Isidor,Carpenter,isidor.carpenter@chauvin.com
+1994,Boyle Ltd,failed,21,US,3300.0,1980.0,2021-03-07 06:00:00,film & video,science fiction,Marie,Zoppetto,marie.zoppetto@kallert.de
+201,"Henderson, Parker and Diaz",successful,1548,AU,42600.0,156384.0,2021-07-19 05:00:00,technology,web,Branko,Chambers,branko.chambers@ifrance.com
+960,Moss-Obrien,successful,80,US,700.0,7763.0,2021-04-20 05:00:00,theater,plays,Alan,Pineda,alan.pineda@proyectos.info
+1475,Wood Inc,failed,830,US,187600.0,35698.0,2020-08-17 05:00:00,film & video,science fiction,Carmen,Oestrovsky,carmen.oestrovsky@gmail.com
+3149,"Riley, Cohen and Goodman",successful,131,US,9800.0,12434.0,2020-08-17 05:00:00,theater,plays,Shane,Fernandez,shane.fernandez@hotmail.de
+877,"Green, Robinson and Ho",successful,112,US,1100.0,8081.0,2021-07-15 05:00:00,film & video,animation,Debbie,Guilbert,debbie.guilbert@berg.edu
+2122,Black-Graham,failed,130,US,145000.0,6631.0,2021-09-17 05:00:00,publishing,translations,Vito,Dossi,vito.dossi@hotmail.co.uk
+923,Robbins Group,failed,55,US,5500.0,4678.0,2021-02-04 06:00:00,technology,web,Evan,Schacht,evan.schacht@price.com
+1809,"Mason, Case and May",successful,155,US,5700.0,6800.0,2021-04-18 05:00:00,publishing,translations,Mandy,Weston,mandy.weston@free.fr
+3209,"Harris, Russell and Mitchell",successful,266,US,3600.0,10657.0,2021-01-21 06:00:00,food,food trucks,Paulo,Zito,paulo.zito@nelson.biz
+1951,Rodriguez-Robinson,failed,114,IT,5900.0,4997.0,2021-07-23 05:00:00,photography,photography books,Alberto,Girschner,alberto.girschner@laboratorios.com
+2566,"Peck, Higgins and Smith",successful,155,US,3700.0,13164.0,2020-04-25 05:00:00,theater,plays,Giacomo,Bouvet,giacomo.bouvet@gmail.com
+2925,Nunez-King,successful,207,GB,2200.0,8501.0,2020-04-09 05:00:00,music,rock,Ehrentraud,Puga,ehrentraud.puga@laboratorios.com
+3087,Davis and Sons,successful,245,US,1700.0,13468.0,2020-10-08 05:00:00,theater,plays,Cristian,Hale,cristian.hale@hotmail.co.uk
+2040,Howard-Douglas,successful,1573,US,88400.0,121138.0,2020-09-22 05:00:00,music,world music,Lilija,Charles,lilija.charles@gmail.com
+1755,Gonzalez-White,successful,114,US,2400.0,8117.0,2020-12-21 06:00:00,food,food trucks,Albert,Legendre,albert.legendre@lee.com
+965,Lopez-King,successful,93,US,7900.0,8550.0,2021-04-25 05:00:00,theater,plays,Marisa,Renaud,marisa.renaud@smith.org
+2019,Glover-Nelson,failed,594,US,94900.0,57659.0,2021-04-10 05:00:00,theater,plays,Sharon,Diallo,sharon.diallo@gmail.com
+843,Garner and Sons,failed,24,US,5100.0,1414.0,2020-09-17 05:00:00,film & video,television,Eduardo,Delattre,eduardo.delattre@lynch.net.au
+1593,"Sellers, Roach and Garrison",successful,1681,US,42700.0,97524.0,2020-12-18 06:00:00,technology,web,Bernadette,Wang,bernadette.wang@gmail.com
+2494,"Herrera, Bennett and Silva",failed,252,US,121100.0,26176.0,2020-07-30 05:00:00,theater,plays,Dina,Gibbons,dina.gibbons@brewer.net
+2250,"Thomas, Clay and Mendoza",successful,32,US,800.0,2991.0,2020-05-13 05:00:00,music,indie rock,Clara,Armstrong,clara.armstrong@vodafone.it
+1498,Ayala Group,successful,135,US,5400.0,8366.0,2020-07-22 05:00:00,theater,plays,Elliott,Herrmann,elliott.herrmann@hotmail.com.au
+356,"Huerta, Roberts and Dickerson",successful,140,US,4000.0,12886.0,2021-02-28 06:00:00,theater,plays,Graziella,Vidal,graziella.vidal@hotmail.com
+1432,Johnson Group,failed,67,US,7000.0,5177.0,2021-04-22 05:00:00,food,food trucks,Francisca,Becerra,francisca.becerra@young.com.au
+25,"Bailey, Nguyen and Martinez",successful,92,US,1000.0,8641.0,2021-08-10 05:00:00,games,video games,Edeltrud,Boyer,edeltrud.boyer@outlook.com
+488,"Williams, Martin and Meyer",successful,1015,GB,60200.0,86244.0,2020-07-17 05:00:00,theater,plays,Julian,Noble,julian.noble@hill.org.au
+423,Huff-Johnson,failed,742,US,195200.0,78630.0,2021-03-27 05:00:00,publishing,nonfiction,Christophe,Bohnbach,christophe.bohnbach@ifrance.com
+2028,Diaz-Little,successful,323,US,6700.0,11941.0,2021-06-26 05:00:00,technology,web,Ippazio,Angulo,ippazio.angulo@yahoo.com
+1521,Freeman-French,failed,75,US,7200.0,6115.0,2020-02-21 06:00:00,film & video,documentary,Grace,Kroker,grace.kroker@hotmail.com
+2780,Beck-Weber,successful,2326,US,129100.0,188404.0,2021-06-22 05:00:00,film & video,documentary,Jared,Ferguson,jared.ferguson@roberts.com
+2316,Lewis-Jacobson,successful,381,US,6500.0,9910.0,2021-04-14 05:00:00,theater,plays,Virginie,McLean,virginie.mclean@yahoo.com
+2247,Logan-Curtis,failed,4405,US,170600.0,114523.0,2020-11-21 06:00:00,music,rock,Mason,Potter,mason.potter@gmail.com
+2408,"Chan, Washington and Callahan",failed,92,US,7800.0,3144.0,2021-04-12 05:00:00,music,rock,Aaron,Anaya,aaron.anaya@hotmail.com.au
+3184,Wilson Group,successful,480,US,6200.0,13441.0,2020-07-18 05:00:00,film & video,documentary,Leah,Ornelas,leah.ornelas@gmail.com
+1680,"Gardner, Ryan and Gutierrez",failed,64,US,9400.0,4899.0,2021-03-02 06:00:00,publishing,radio & podcasts,Harald,Roy,harald.roy@web.de
+2585,Hernandez Inc,successful,226,US,2400.0,11990.0,2021-06-12 05:00:00,publishing,translations,Micaela,Martel,micaela.martel@hotmail.com
+1561,Ortiz-Roberts,failed,64,US,7800.0,6839.0,2021-06-09 05:00:00,film & video,drama,Vincentio,Sanders,vincentio.sanders@voila.fr
+2632,Ramirez LLC,successful,241,US,9800.0,11091.0,2020-12-09 06:00:00,music,rock,Bettina,Norbiato,bettina.norbiato@allen-lutz.org
+439,Morrow Inc,successful,132,US,3100.0,13223.0,2020-06-14 05:00:00,film & video,drama,Julio,Renner,julio.renner@industrias.net
+461,Erickson-Rogers,canceled,75,IT,9800.0,7608.0,2021-07-03 05:00:00,photography,photography books,Jelena,Stiffel,jelena.stiffel@trupp.de
+1419,"Leach, Rich and Price",failed,842,US,141100.0,74073.0,2021-11-15 06:00:00,publishing,translations,Guadalupe,Munoz,guadalupe.munoz@murray-hamilton.com.au
+2986,Manning-Hamilton,successful,2043,US,97300.0,153216.0,2020-12-29 06:00:00,food,food trucks,Whitney,Noack,whitney.noack@laboratorios.org
+2031,Butler LLC,failed,112,US,6600.0,4814.0,2021-10-15 05:00:00,theater,plays,Gelsomina,Migliaccio,gelsomina.migliaccio@junk.com
+1627,Ball LLC,canceled,139,IT,7600.0,4603.0,2021-11-06 05:00:00,theater,plays,Evangelista,Pereira,evangelista.pereira@thompson-peterson.biz
+2175,"Taylor, Santiago and Flores",failed,374,US,66600.0,37823.0,2020-10-08 05:00:00,music,indie rock,Gareth,Comolli,gareth.comolli@tiscali.fr
+1788,"Hernandez, Norton and Kelley",canceled,1122,US,111100.0,62819.0,2020-12-30 06:00:00,food,food trucks,Michelangelo,Hess,michelangelo.hess@bouygtel.fr

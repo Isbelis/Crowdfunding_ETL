@@ -17,12 +17,12 @@ This mini-project involved extracting, transforming, and loading (ETL) crowdfund
 
 # Folder Structure
 
- - **ERD Folder:** Contained the ERD files.
-  `QuickDBD-Crowdfunding ERD.png`
-  `QuickDatabaseDiagrams Documentation.pdf`
-  `Crowdfunding ERD - project-2-group-.txt`
+ - **ERD Folder:** Contains the ERD files as folowing:
+   `QuickDBD-Crowdfunding ERD.png`
+   `QuickDatabaseDiagrams Documentation.pdf`
+   `Crowdfunding ERD - project-2-group-.txt`
 
-  - **Resources Folder:** Contained CSV files and the original dataset used to create DataFrames.
+  - **Resources Folder:** Contains CSV files and the original dataset used to create DataFrames.
 
 ### - Output Folder: Contained visualizations in PNG format and CSV files from queries used to create DataFrames for analysis.
 

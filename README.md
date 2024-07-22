@@ -5,8 +5,8 @@ This mini-project involved extracting, transforming, and loading (ETL) crowdfund
 1. Created the Category and Subcategory DataFrames
 2. Created the Campaign DataFrame
 3. Created the Contacts DataFrame
-  - Option 1: Used Python dictionary methods
-  - Option 2: Used regular expressions to parse the data
+   - Option 1: Used Python dictionary methods
+   - Option 2: Used regular expressions to parse the data
 4. Created the Crowdfunding Database
 
 # Usage
@@ -22,9 +22,9 @@ This mini-project involved extracting, transforming, and loading (ETL) crowdfund
   `QuickDatabaseDiagrams Documentation.pdf`
   `Crowdfunding ERD - project-2-group-.txt`
 
-- Resources Folder: Contained CSV files and the original dataset used to create DataFrames.
+##- Resources Folder: Contained CSV files and the original dataset used to create DataFrames.
 
-- Output Folder: Contained visualizations in PNG format and CSV files from queries used to create DataFrames for analysis.
+##- Output Folder: Contained visualizations in PNG format and CSV files from queries used to create DataFrames for analysis.
 
 ## Files
 - Schema: crowdfunding_db_schema.sql and crowdfunding_db_schema2.sql

@@ -23,8 +23,8 @@ This mini-project involved extracting, transforming, and loading (ETL) crowdfund
    `Crowdfunding ERD - project-2-group-.txt`.
 
   - **Resources Folder:** Contains CSV files and the original dataset used to create DataFrames.
-
-### - Output Folder: Contained visualizations in PNG format and CSV files from queries used to create DataFrames for analysis.
+    
+  - **Output Folder:** Contained visualizations in PNG format and CSV files from queries used to create DataFrames for analysis.
 
 ## Files
 - **Schema:** crowdfunding_db_schema.sql and crowdfunding_db_schema2.sql

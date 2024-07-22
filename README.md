@@ -22,16 +22,16 @@ This mini-project involved extracting, transforming, and loading (ETL) crowdfund
   `QuickDatabaseDiagrams Documentation.pdf`
   `Crowdfunding ERD - project-2-group-.txt`
 
-##- Resources Folder: Contained CSV files and the original dataset used to create DataFrames.
+## - Resources Folder: Contained CSV files and the original dataset used to create DataFrames.
 
-##- Output Folder: Contained visualizations in PNG format and CSV files from queries used to create DataFrames for analysis.
+## - Output Folder: Contained visualizations in PNG format and CSV files from queries used to create DataFrames for analysis.
 
 ## Files
 - Schema: crowdfunding_db_schema.sql and crowdfunding_db_schema2.sql
 - ETL Output: ETL_Mini_Project_ICastroLKrempaBRosensweig.ipynb
 - Analysis Output: ANALYSIS_Group16.ipynb
 
-#License
+# License
 This project was licensed under the MIT License. See the LICENSE file for details.
 
 

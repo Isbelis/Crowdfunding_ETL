@@ -30,6 +30,7 @@ This mini-project involved extracting, transforming, and loading (ETL) crowdfund
 - **Schema:** crowdfunding_db_schema.sql and crowdfunding_db_schema2.sql
 - **ETL Output:** ETL_Mini_Project_ICastroLKrempaBRosensweig.ipynb
 - **Analysis Output:** ANALYSIS_Group16.ipynb
+- **Write up:** Project 2 Write-Up-Group 16.pdf
 
 # License
 This project was licensed under the MIT License. See the LICENSE file for details.
